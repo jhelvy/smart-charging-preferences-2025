@@ -779,7 +779,7 @@ ggsave(
 )
 
 #####################
-# Sensitivity Table #
+# Equivalency Table #
 #####################
 
 # 1. Function to find value that gives target probability

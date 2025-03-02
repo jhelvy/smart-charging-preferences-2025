@@ -82,17 +82,6 @@ smc_mnl_scenario_plot <- smc_mnl_scenario %>%
     theme_minimal_vgrid(font_family = "Ubuntu") +
     theme(legend.position = "none")
 
-smc_mnl_scenario_plot
-
-ggsave(
-    filename = file.path(processed_dir,
-                         "4_scenario_analysis",
-                         "smc_mnl_scenario_plot.png"),
-    plot = smc_mnl_scenario_plot,
-    width = 7,
-    height = 7 / 1.618
-)
-
 ################
 # V2G Programs #
 ################
@@ -173,17 +162,6 @@ v2g_mnl_scenario_plot <- v2g_mnl_scenario %>%
          title = "B) Vehicle-to-Grid (V2G)") +
     theme_minimal_vgrid(font_family = "Ubuntu") +
     theme(legend.position = "none")
-
-v2g_mnl_scenario_plot
-
-ggsave(
-    filename = file.path(processed_dir,
-                         "4_scenario_analysis",
-                         "v2g_mnl_scenario_plot.png"),
-    plot = v2g_mnl_scenario_plot,
-    width = 7,
-    height = 7 / 1.618
-)
 
 ####################
 # Plot Combination #
