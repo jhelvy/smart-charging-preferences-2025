@@ -151,8 +151,6 @@ This is a standalone folder that contains the Shiny App source codes of
 the [**Smart Charging Enrollment
 Simulator**](https://gwuvehicle.shinyapps.io/enrollment_simulator/).
 
-# Reproducing the analysis
-
 ## survey
 
 Contains the raw survey responses. We recruited our survey on these two
