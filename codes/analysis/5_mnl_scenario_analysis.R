@@ -9,7 +9,7 @@
 load(file.path(processed_dir, "2_models", "smc_mnl_model.RData"))
 
 # 1. Scenario Analysis
-smc_scenarios <- read_csv(here("project", "data", "smc_scenarios.csv"))
+smc_scenarios <- read_csv(here("data", "smc_scenarios.csv"))
 
 smc_mnl_scenario <- predict(
     smc_mnl_model,
@@ -101,7 +101,7 @@ ggsave(
 load(file.path(processed_dir, "2_models", "v2g_mnl_model.RData"))
 
 # 1. Scenario Analysis
-v2g_scenarios <- read_csv(here("project", "data", "v2g_scenarios.csv"))
+v2g_scenarios <- read_csv(here("data", "v2g_scenarios.csv"))
 
 v2g_mnl_scenario <- predict(
     v2g_mnl_model,
