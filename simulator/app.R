@@ -6,8 +6,8 @@ library(logitr)
 library(markdown)
 
 # Load the models
-load(file.path("model", "smc_mnl_model.RData"))
-load(file.path("model", "v2g_mnl_model.RData"))
+load(file.path("models", "smc_mnl_model.RData"))
+load(file.path("models", "v2g_mnl_model.RData"))
 
 # Helper function to check if a value is numeric
 is_valid_numeric <- function(x, positive = FALSE, max_value = NULL, field_name = "") {
