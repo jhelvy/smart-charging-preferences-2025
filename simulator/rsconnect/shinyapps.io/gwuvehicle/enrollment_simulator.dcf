@@ -1,0 +1,10 @@
+name: enrollment_simulator
+title:
+username: gwuvehicle
+account: gwuvehicle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13969463
+bundleId: 9879132
+url: https://gwuvehicle.shinyapps.io/enrollment_simulator/
+version: 1
