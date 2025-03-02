@@ -1,0 +1,1749 @@
+make_snake,make,model_snake,model,engine_aspiration,is_bev
+acura,Acura,cl,CL,Naturally Aspirated,No
+acura,Acura,ilx,ILX,Naturally Aspirated,No
+acura,Acura,ilx_hybrid,ILX Hybrid,Naturally Aspirated,No
+acura,Acura,integra,Integra,Turbocharged,No
+acura,Acura,integra,Integra,Naturally Aspirated,No
+acura,Acura,legend,Legend,Naturally Aspirated,No
+acura,Acura,mdx,MDX,Naturally Aspirated,No
+acura,Acura,mdx,MDX,Turbocharged,No
+acura,Acura,nsx,NSX,Twin-Turbo,No
+acura,Acura,nsx,NSX,Naturally Aspirated,No
+acura,Acura,rdx,RDX,Turbocharged,No
+acura,Acura,rdx,RDX,Naturally Aspirated,No
+acura,Acura,rl,RL,Naturally Aspirated,No
+acura,Acura,rlx,RLX,Naturally Aspirated,No
+acura,Acura,rsx,RSX,Naturally Aspirated,No
+acura,Acura,slx,SLX,Naturally Aspirated,No
+acura,Acura,tl,TL,Naturally Aspirated,No
+acura,Acura,tlx,TLX,Turbocharged,No
+acura,Acura,tlx,TLX,Naturally Aspirated,No
+acura,Acura,tsx,TSX,Naturally Aspirated,No
+acura,Acura,tsx_sport_wagon,TSX Sport Wagon,Naturally Aspirated,No
+acura,Acura,vigor,Vigor,Naturally Aspirated,No
+acura,Acura,zdx,ZDX,Naturally Aspirated,No
+alfa_romeo,Alfa Romeo,4_c,4C,Turbocharged,No
+alfa_romeo,Alfa Romeo,giulia,Giulia,Turbocharged,No
+alfa_romeo,Alfa Romeo,giulia,Giulia,Twin-Turbo,No
+alfa_romeo,Alfa Romeo,stelvio,Stelvio,Turbocharged,No
+alfa_romeo,Alfa Romeo,stelvio,Stelvio,Twin-Turbo,No
+alfa_romeo,Alfa Romeo,tonale,Tonale,Turbocharged,No
+aston_martin,Aston Martin,db_11,DB11,Twin-Turbo,No
+aston_martin,Aston Martin,db_7,DB7,Naturally Aspirated,No
+aston_martin,Aston Martin,db_9,DB9,Naturally Aspirated,No
+aston_martin,Aston Martin,db_9_gt,DB9 GT,Naturally Aspirated,No
+aston_martin,Aston Martin,dbs,DBS,Twin-Turbo,No
+aston_martin,Aston Martin,dbs,DBS,Naturally Aspirated,No
+aston_martin,Aston Martin,dbs_superleggera,DBS Superleggera,Twin-Turbo,No
+aston_martin,Aston Martin,dbx,DBX,Twin-Turbo,No
+aston_martin,Aston Martin,dbx_707,DBX707,Twin-Turbo,No
+aston_martin,Aston Martin,rapide,Rapide,Naturally Aspirated,No
+aston_martin,Aston Martin,rapide_amr,Rapide AMR,Naturally Aspirated,No
+aston_martin,Aston Martin,rapide_s,Rapide S,Naturally Aspirated,No
+aston_martin,Aston Martin,v_12_vanquish,V12 Vanquish,Naturally Aspirated,No
+aston_martin,Aston Martin,v_12_vantage,V12 Vantage,Naturally Aspirated,No
+aston_martin,Aston Martin,v_12_vantage_s,V12 Vantage S,Naturally Aspirated,No
+aston_martin,Aston Martin,v_8_vantage,V8 Vantage,Naturally Aspirated,No
+aston_martin,Aston Martin,vanquish,Vanquish,Naturally Aspirated,No
+aston_martin,Aston Martin,vanquish_s,Vanquish S,Naturally Aspirated,No
+aston_martin,Aston Martin,vantage,Vantage,Twin-Turbo,No
+aston_martin,Aston Martin,virage,Virage,Naturally Aspirated,No
+audi,Audi,100,100,Naturally Aspirated,No
+audi,Audi,200,200,Turbocharged,No
+audi,Audi,80,80,Naturally Aspirated,No
+audi,Audi,90,90,Naturally Aspirated,No
+audi,Audi,a_3,A3,Turbocharged,No
+audi,Audi,a_3,A3,Naturally Aspirated,No
+audi,Audi,a_3_sportback_e_tron,A3 Sportback e-tron,Turbocharged,No
+audi,Audi,a_4,A4,Turbocharged,No
+audi,Audi,a_4,A4,Naturally Aspirated,No
+audi,Audi,a_4_allroad,A4 allroad,Turbocharged,No
+audi,Audi,a_5,A5,Turbocharged,No
+audi,Audi,a_5,A5,Naturally Aspirated,No
+audi,Audi,a_6,A6,Turbocharged,No
+audi,Audi,a_6,A6,Supercharged,No
+audi,Audi,a_6,A6,Naturally Aspirated,No
+audi,Audi,a_6,A6,Twin-Turbo,No
+audi,Audi,a_6_allroad,A6 allroad,Turbocharged,No
+audi,Audi,a_7,A7,Turbocharged,No
+audi,Audi,a_7,A7,Supercharged,No
+audi,Audi,a_8,A8,Turbocharged,No
+audi,Audi,a_8,A8,Twin-Turbo,No
+audi,Audi,a_8,A8,Supercharged,No
+audi,Audi,a_8,A8,Naturally Aspirated,No
+audi,Audi,allroad,allroad,Turbocharged,No
+audi,Audi,allroad_quattro,allroad quattro,Twin-Turbo,No
+audi,Audi,allroad_quattro,allroad quattro,Naturally Aspirated,No
+audi,Audi,cabriolet,Cabriolet,Naturally Aspirated,No
+audi,Audi,e_tron,e-tron,Electric Motor,Yes
+audi,Audi,e_tron_gt,e-tron GT,Electric Motor,Yes
+audi,Audi,e_tron_s,e-tron S,Electric Motor,Yes
+audi,Audi,e_tron_s_sportback,e-tron S Sportback,Electric Motor,Yes
+audi,Audi,e_tron_sportback,e-tron Sportback,Electric Motor,Yes
+audi,Audi,q_3,Q3,Turbocharged,No
+audi,Audi,q_4_e_tron,Q4 e-tron,Electric Motor,Yes
+audi,Audi,q_4_sportback_e_tron,Q4 Sportback e-tron,Electric Motor,Yes
+audi,Audi,q_5,Q5,Turbocharged,No
+audi,Audi,q_5,Q5,Supercharged,No
+audi,Audi,q_5,Q5,Naturally Aspirated,No
+audi,Audi,q_5_sportback,Q5 Sportback,Turbocharged,No
+audi,Audi,q_7,Q7,Turbocharged,No
+audi,Audi,q_7,Q7,Supercharged,No
+audi,Audi,q_7,Q7,Naturally Aspirated,No
+audi,Audi,q_8,Q8,Turbocharged,No
+audi,Audi,q_8_e_tron,Q8 e-tron,Electric Motor,Yes
+audi,Audi,q_8_sportback_e_tron,Q8 Sportback e-tron,Electric Motor,Yes
+audi,Audi,r_8,R8,Naturally Aspirated,No
+audi,Audi,rs_3,RS 3,Turbocharged,No
+audi,Audi,rs_4,RS 4,Naturally Aspirated,No
+audi,Audi,rs_5,RS 5,Twin-Turbo,No
+audi,Audi,rs_5,RS 5,Naturally Aspirated,No
+audi,Audi,rs_6,RS 6,Twin-Turbo,No
+audi,Audi,rs_7,RS 7,Twin-Turbo,No
+audi,Audi,rs_e_tron_gt,RS e-tron GT,Electric Motor,Yes
+audi,Audi,rs_q_8,RS Q8,Twin-Turbo,No
+audi,Audi,s_3,S3,Turbocharged,No
+audi,Audi,s_4,S4,Turbocharged,No
+audi,Audi,s_4,S4,Supercharged,No
+audi,Audi,s_4,S4,Naturally Aspirated,No
+audi,Audi,s_4,S4,Twin-Turbo,No
+audi,Audi,s_5,S5,Turbocharged,No
+audi,Audi,s_5,S5,Supercharged,No
+audi,Audi,s_5,S5,Naturally Aspirated,No
+audi,Audi,s_6,S6,Twincharged,No
+audi,Audi,s_6,S6,Twin-Turbo,No
+audi,Audi,s_6,S6,Naturally Aspirated,No
+audi,Audi,s_6,S6,Turbocharged,No
+audi,Audi,s_7,S7,Twincharged,No
+audi,Audi,s_7,S7,Twin-Turbo,No
+audi,Audi,s_8,S8,Twin-Turbo,No
+audi,Audi,s_8,S8,Naturally Aspirated,No
+audi,Audi,sq_5,SQ5,Turbocharged,No
+audi,Audi,sq_5,SQ5,Supercharged,No
+audi,Audi,sq_5_sportback,SQ5 Sportback,Turbocharged,No
+audi,Audi,sq_7,SQ7,Twin-Turbo,No
+audi,Audi,sq_8,SQ8,Twin-Turbo,No
+audi,Audi,sq_8_e_tron,SQ8 e-tron,Electric Motor,Yes
+audi,Audi,sq_8_sportback_e_tron,SQ8 Sportback e-tron,Electric Motor,Yes
+audi,Audi,tt,TT,Turbocharged,No
+audi,Audi,tt,TT,Naturally Aspirated,No
+audi,Audi,tt_rs,TT RS,Turbocharged,No
+audi,Audi,tts,TTS,Turbocharged,No
+audi,Audi,v_8,V8,Naturally Aspirated,No
+bentley,Bentley,arnage,Arnage,Twin-Turbo,No
+bentley,Bentley,arnage,Arnage,Turbocharged,No
+bentley,Bentley,azure,Azure,Twin-Turbo,No
+bentley,Bentley,azure,Azure,Turbocharged,No
+bentley,Bentley,azure_t,Azure T,Twin-Turbo,No
+bentley,Bentley,bentayga,Bentayga,Turbocharged,No
+bentley,Bentley,bentayga,Bentayga,Twin-Turbo,No
+bentley,Bentley,bentayga_ewb,Bentayga EWB,Twin-Turbo,No
+bentley,Bentley,brooklands,Brooklands,Twin-Turbo,No
+bentley,Bentley,continental,Continental,Twin-Turbo,No
+bentley,Bentley,continental,Continental,Turbocharged,No
+bentley,Bentley,continental_flying_spur,Continental Flying Spur,Twin-Turbo,No
+bentley,Bentley,continental_flying_spur_speed,Continental Flying Spur Speed,Twin-Turbo,No
+bentley,Bentley,continental_gt,Continental GT,Twin-Turbo,No
+bentley,Bentley,continental_gt_speed,Continental GT Speed,Twin-Turbo,No
+bentley,Bentley,continental_gt_speed_convertible,Continental GT Speed Convertible,Twin-Turbo,No
+bentley,Bentley,continental_gt_3_r,Continental GT3-R,Twin-Turbo,No
+bentley,Bentley,continental_gtc,Continental GTC,Twin-Turbo,No
+bentley,Bentley,continental_gtc_speed,Continental GTC Speed,Twin-Turbo,No
+bentley,Bentley,continental_supersports,Continental Supersports,Twin-Turbo,No
+bentley,Bentley,continental_supersports_convertible,Continental Supersports Convertible,Twin-Turbo,No
+bentley,Bentley,flying_spur,Flying Spur,Twin-Turbo,No
+bentley,Bentley,mulsanne,Mulsanne,Twin-Turbo,No
+bentley,Bentley,supersports_convertible_isr,Supersports Convertible ISR,Twin-Turbo,No
+bmw,BMW,1_series,1 Series,Naturally Aspirated,No
+bmw,BMW,1_series,1 Series,Turbocharged,No
+bmw,BMW,1_series,1 Series,Twin-Turbo,No
+bmw,BMW,1_series_m,1 Series M,Twin-Turbo,No
+bmw,BMW,2_series,2 Series,Turbocharged,No
+bmw,BMW,2_series_gran_coupe,2 Series Gran Coupe,Turbocharged,No
+bmw,BMW,3_series,3 Series,Turbocharged,No
+bmw,BMW,3_series,3 Series,Naturally Aspirated,No
+bmw,BMW,3_series,3 Series,Twin-Turbo,No
+bmw,BMW,3_series_e_drive,3 Series eDrive,Turbocharged,No
+bmw,BMW,3_series_gran_turismo,3 Series Gran Turismo,Turbocharged,No
+bmw,BMW,4_series,4 Series,Turbocharged,No
+bmw,BMW,4_series_gran_coupe,4 Series Gran Coupe,Turbocharged,No
+bmw,BMW,5_series,5 Series,Turbocharged,No
+bmw,BMW,5_series,5 Series,Twin-Turbo,No
+bmw,BMW,5_series,5 Series,Naturally Aspirated,No
+bmw,BMW,5_series_gran_turismo,5 Series Gran Turismo,Turbocharged,No
+bmw,BMW,5_series_gran_turismo,5 Series Gran Turismo,Twin-Turbo,No
+bmw,BMW,6_series,6 Series,Turbocharged,No
+bmw,BMW,6_series,6 Series,Twin-Turbo,No
+bmw,BMW,6_series,6 Series,Naturally Aspirated,No
+bmw,BMW,6_series_gran_coupe,6 Series Gran Coupe,Turbocharged,No
+bmw,BMW,6_series_gran_coupe,6 Series Gran Coupe,Twin-Turbo,No
+bmw,BMW,6_series_gran_turismo,6 Series Gran Turismo,Turbocharged,No
+bmw,BMW,7_series,7 Series,Turbocharged,No
+bmw,BMW,7_series,7 Series,Twin-Turbo,No
+bmw,BMW,7_series,7 Series,Naturally Aspirated,No
+bmw,BMW,8_series,8 Series,Turbocharged,No
+bmw,BMW,8_series,8 Series,Twin-Turbo,No
+bmw,BMW,8_series,8 Series,Naturally Aspirated,No
+bmw,BMW,8_series_gran_coupe,8 Series Gran Coupe,Turbocharged,No
+bmw,BMW,8_series_gran_coupe,8 Series Gran Coupe,Twin-Turbo,No
+bmw,BMW,active_hybrid_5,ActiveHybrid 5,Turbocharged,No
+bmw,BMW,active_hybrid_7,ActiveHybrid 7,Turbocharged,No
+bmw,BMW,active_hybrid_7,ActiveHybrid 7,Twin-Turbo,No
+bmw,BMW,active_hybrid_x_6,ActiveHybrid X6,Twin-Turbo,No
+bmw,BMW,alpina,Alpina,Naturally Aspirated,No
+bmw,BMW,alpina_b_6_gran_coupe,ALPINA B6 Gran Coupe,Twin-Turbo,No
+bmw,BMW,alpina_b_7,ALPINA B7,Twin-Turbo,No
+bmw,BMW,alpina_b_7,ALPINA B7,Supercharged,No
+bmw,BMW,alpina_b_8_gran_coupe,ALPINA B8 Gran Coupe,Twin-Turbo,No
+bmw,BMW,alpina_xb_7,ALPINA XB7,Twin-Turbo,No
+bmw,BMW,i_3,i3,Electric Motor,Yes
+bmw,BMW,i_3,i3,Naturally Aspirated,No
+bmw,BMW,i_4,i4,Electric Motor,Yes
+bmw,BMW,i_5,i5,Electric Motor,Yes
+bmw,BMW,i_7,i7,Electric Motor,Yes
+bmw,BMW,i_8,i8,Turbocharged,No
+bmw,BMW,i_x,iX,Electric Motor,Yes
+bmw,BMW,m,M,Naturally Aspirated,No
+bmw,BMW,m_2,M2,Twin-Turbo,No
+bmw,BMW,m_2,M2,Turbocharged,No
+bmw,BMW,m_2_cs,M2 CS,Twin-Turbo,No
+bmw,BMW,m_3,M3,Twin-Turbo,No
+bmw,BMW,m_3,M3,Naturally Aspirated,No
+bmw,BMW,m_3_cs,M3 CS,Twin-Turbo,No
+bmw,BMW,m_4,M4,Twin-Turbo,No
+bmw,BMW,m_4_cs,M4 CS,Twin-Turbo,No
+bmw,BMW,m_4_csl,M4 CSL,Twin-Turbo,No
+bmw,BMW,m_4_gts,M4 GTS,Twin-Turbo,No
+bmw,BMW,m_5,M5,Twin-Turbo,No
+bmw,BMW,m_5,M5,Naturally Aspirated,No
+bmw,BMW,m_5_cs,M5 CS,Twin-Turbo,No
+bmw,BMW,m_6,M6,Twin-Turbo,No
+bmw,BMW,m_6,M6,Naturally Aspirated,No
+bmw,BMW,m_6_gran_coupe,M6 Gran Coupe,Twin-Turbo,No
+bmw,BMW,m_8,M8,Twin-Turbo,No
+bmw,BMW,m_8_gran_coupe,M8 Gran Coupe,Twin-Turbo,No
+bmw,BMW,x_1,X1,Turbocharged,No
+bmw,BMW,x_2,X2,Turbocharged,No
+bmw,BMW,x_3,X3,Turbocharged,No
+bmw,BMW,x_3,X3,Naturally Aspirated,No
+bmw,BMW,x_3_m,X3 M,Twin-Turbo,No
+bmw,BMW,x_4,X4,Turbocharged,No
+bmw,BMW,x_4_m,X4 M,Twin-Turbo,No
+bmw,BMW,x_5,X5,Twin-Turbo,No
+bmw,BMW,x_5,X5,Turbocharged,No
+bmw,BMW,x_5,X5,Naturally Aspirated,No
+bmw,BMW,x_5_e_drive,X5 eDrive,Turbocharged,No
+bmw,BMW,x_5_m,X5 M,Twin-Turbo,No
+bmw,BMW,x_6,X6,Twin-Turbo,No
+bmw,BMW,x_6,X6,Turbocharged,No
+bmw,BMW,x_6_m,X6 M,Twin-Turbo,No
+bmw,BMW,x_7,X7,Twin-Turbo,No
+bmw,BMW,x_7,X7,Turbocharged,No
+bmw,BMW,xm,XM,Twin-Turbo,No
+bmw,BMW,z_3,Z3,Naturally Aspirated,No
+bmw,BMW,z_4,Z4,Turbocharged,No
+bmw,BMW,z_4,Z4,Twin-Turbo,No
+bmw,BMW,z_4,Z4,Naturally Aspirated,No
+bmw,BMW,z_4_m,Z4 M,Naturally Aspirated,No
+bmw,BMW,z_8,Z8,Naturally Aspirated,No
+bugatti,Bugatti,veyron_16_4,Veyron 16.4,Quad-Turbo,No
+buick,Buick,cascada,Cascada,Turbocharged,No
+buick,Buick,century,Century,Naturally Aspirated,No
+buick,Buick,electra,Electra,Naturally Aspirated,No
+buick,Buick,enclave,Enclave,Naturally Aspirated,No
+buick,Buick,encore,Encore,Turbocharged,No
+buick,Buick,encore_gx,Encore GX,Turbocharged,No
+buick,Buick,envision,Envision,Turbocharged,No
+buick,Buick,envision,Envision,Naturally Aspirated,No
+buick,Buick,envista,Envista,Turbocharged,No
+buick,Buick,estate_wagon,Estate Wagon,Naturally Aspirated,No
+buick,Buick,la_crosse,LaCrosse,Naturally Aspirated,No
+buick,Buick,le_sabre,LeSabre,Naturally Aspirated,No
+buick,Buick,lucerne,Lucerne,Naturally Aspirated,No
+buick,Buick,park_avenue,Park Avenue,Naturally Aspirated,No
+buick,Buick,park_avenue,Park Avenue,Supercharged,No
+buick,Buick,rainier,Rainier,Naturally Aspirated,No
+buick,Buick,reatta,Reatta,Naturally Aspirated,No
+buick,Buick,regal,Regal,Naturally Aspirated,No
+buick,Buick,regal,Regal,Turbocharged,No
+buick,Buick,regal,Regal,Supercharged,No
+buick,Buick,regal_sportback,Regal Sportback,Turbocharged,No
+buick,Buick,regal_sportback,Regal Sportback,Naturally Aspirated,No
+buick,Buick,regal_tour_x,Regal TourX,Turbocharged,No
+buick,Buick,rendezvous,Rendezvous,Naturally Aspirated,No
+buick,Buick,riviera,Riviera,Supercharged,No
+buick,Buick,riviera,Riviera,Naturally Aspirated,No
+buick,Buick,roadmaster,Roadmaster,Naturally Aspirated,No
+buick,Buick,skylark,Skylark,Naturally Aspirated,No
+buick,Buick,terraza,Terraza,Naturally Aspirated,No
+buick,Buick,verano,Verano,Naturally Aspirated,No
+buick,Buick,verano,Verano,Turbocharged,No
+cadillac,Cadillac,allante,Allante,Naturally Aspirated,No
+cadillac,Cadillac,ats,ATS,Turbocharged,No
+cadillac,Cadillac,ats,ATS,Naturally Aspirated,No
+cadillac,Cadillac,ats_coupe,ATS Coupe,Turbocharged,No
+cadillac,Cadillac,ats_coupe,ATS Coupe,Naturally Aspirated,No
+cadillac,Cadillac,ats_v,ATS-V,Twin-Turbo,No
+cadillac,Cadillac,brougham,Brougham,Naturally Aspirated,No
+cadillac,Cadillac,catera,Catera,Naturally Aspirated,No
+cadillac,Cadillac,ct_4,CT4,Turbocharged,No
+cadillac,Cadillac,ct_4,CT4,Twin-Turbo,No
+cadillac,Cadillac,ct_4_v_blackwing,CT4-V Blackwing,Twin-Turbo,No
+cadillac,Cadillac,ct_5,CT5,Turbocharged,No
+cadillac,Cadillac,ct_5,CT5,Twin-Turbo,No
+cadillac,Cadillac,ct_5,CT5,Supercharged,No
+cadillac,Cadillac,ct_5_v_blackwing,CT5-V Blackwing,Supercharged,No
+cadillac,Cadillac,ct_6,CT6,Naturally Aspirated,No
+cadillac,Cadillac,ct_6,CT6,Twin-Turbo,No
+cadillac,Cadillac,ct_6,CT6,Turbocharged,No
+cadillac,Cadillac,ct_6_v,CT6-V,Twin-Turbo,No
+cadillac,Cadillac,cts,CTS,Turbocharged,No
+cadillac,Cadillac,cts,CTS,Naturally Aspirated,No
+cadillac,Cadillac,cts,CTS,Twin-Turbo,No
+cadillac,Cadillac,cts_coupe,CTS Coupe,Naturally Aspirated,No
+cadillac,Cadillac,cts_wagon,CTS Wagon,Naturally Aspirated,No
+cadillac,Cadillac,cts_v,CTS-V,Supercharged,No
+cadillac,Cadillac,cts_v,CTS-V,Naturally Aspirated,No
+cadillac,Cadillac,cts_v_coupe,CTS-V Coupe,Supercharged,No
+cadillac,Cadillac,cts_v_wagon,CTS-V Wagon,Supercharged,No
+cadillac,Cadillac,de_ville,DeVille,Naturally Aspirated,No
+cadillac,Cadillac,dts,DTS,Naturally Aspirated,No
+cadillac,Cadillac,eldorado,Eldorado,Naturally Aspirated,No
+cadillac,Cadillac,elr,ELR,Naturally Aspirated,No
+cadillac,Cadillac,escalade,Escalade,Naturally Aspirated,No
+cadillac,Cadillac,escalade,Escalade,Supercharged,No
+cadillac,Cadillac,escalade_esv,Escalade ESV,Naturally Aspirated,No
+cadillac,Cadillac,escalade_esv,Escalade ESV,Supercharged,No
+cadillac,Cadillac,escalade_ext,Escalade EXT,Naturally Aspirated,No
+cadillac,Cadillac,escalade_hybrid,Escalade Hybrid,Naturally Aspirated,No
+cadillac,Cadillac,fleetwood,Fleetwood,Naturally Aspirated,No
+cadillac,Cadillac,lyriq,LYRIQ,Electric Motor,Yes
+cadillac,Cadillac,seville,Seville,Naturally Aspirated,No
+cadillac,Cadillac,srx,SRX,Naturally Aspirated,No
+cadillac,Cadillac,srx,SRX,Turbocharged,No
+cadillac,Cadillac,sts,STS,Naturally Aspirated,No
+cadillac,Cadillac,sts_v,STS-V,Supercharged,No
+cadillac,Cadillac,xlr,XLR,Naturally Aspirated,No
+cadillac,Cadillac,xlr_v,XLR-V,Supercharged,No
+cadillac,Cadillac,xt_4,XT4,Turbocharged,No
+cadillac,Cadillac,xt_5,XT5,Turbocharged,No
+cadillac,Cadillac,xt_5,XT5,Naturally Aspirated,No
+cadillac,Cadillac,xt_6,XT6,Turbocharged,No
+cadillac,Cadillac,xt_6,XT6,Naturally Aspirated,No
+cadillac,Cadillac,xts,XTS,Naturally Aspirated,No
+cadillac,Cadillac,xts,XTS,Twin-Turbo,No
+chevrolet,Chevrolet,astro,Astro,Naturally Aspirated,No
+chevrolet,Chevrolet,astro_cargo,Astro Cargo,Naturally Aspirated,No
+chevrolet,Chevrolet,avalanche,Avalanche,Naturally Aspirated,No
+chevrolet,Chevrolet,aveo,Aveo,Naturally Aspirated,No
+chevrolet,Chevrolet,beretta,Beretta,Naturally Aspirated,No
+chevrolet,Chevrolet,black_diamond_avalanche,Black Diamond Avalanche,Naturally Aspirated,No
+chevrolet,Chevrolet,blazer,Blazer,Turbocharged,No
+chevrolet,Chevrolet,blazer,Blazer,Naturally Aspirated,No
+chevrolet,Chevrolet,blazer_ev,Blazer EV,Electric Motor,Yes
+chevrolet,Chevrolet,bolt_euv,Bolt EUV,Electric Motor,Yes
+chevrolet,Chevrolet,bolt_ev,Bolt EV,Electric Motor,Yes
+chevrolet,Chevrolet,c_k_1500_series,C/K 1500 Series,Naturally Aspirated,No
+chevrolet,Chevrolet,c_k_2500_series,C/K 2500 Series,Naturally Aspirated,No
+chevrolet,Chevrolet,c_k_3500_series,C/K 3500 Series,Naturally Aspirated,No
+chevrolet,Chevrolet,camaro,Camaro,Naturally Aspirated,No
+chevrolet,Chevrolet,camaro,Camaro,Supercharged,No
+chevrolet,Chevrolet,camaro,Camaro,Turbocharged,No
+chevrolet,Chevrolet,caprice,Caprice,Naturally Aspirated,No
+chevrolet,Chevrolet,captiva_sport,Captiva Sport,Naturally Aspirated,No
+chevrolet,Chevrolet,cavalier,Cavalier,Naturally Aspirated,No
+chevrolet,Chevrolet,celebrity,Celebrity,Naturally Aspirated,No
+chevrolet,Chevrolet,chevy_van,Chevy Van,Naturally Aspirated,No
+chevrolet,Chevrolet,chevy_van_classic,Chevy Van Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,city_express,City Express,Naturally Aspirated,No
+chevrolet,Chevrolet,classic,Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,cobalt,Cobalt,Naturally Aspirated,No
+chevrolet,Chevrolet,cobalt,Cobalt,Turbocharged,No
+chevrolet,Chevrolet,cobalt,Cobalt,Supercharged,No
+chevrolet,Chevrolet,colorado,Colorado,Turbocharged,No
+chevrolet,Chevrolet,colorado,Colorado,Naturally Aspirated,No
+chevrolet,Chevrolet,corsica,Corsica,Naturally Aspirated,No
+chevrolet,Chevrolet,corvette,Corvette,Naturally Aspirated,No
+chevrolet,Chevrolet,corvette,Corvette,Supercharged,No
+chevrolet,Chevrolet,corvette_stingray,Corvette Stingray,Naturally Aspirated,No
+chevrolet,Chevrolet,cruze,Cruze,Turbocharged,No
+chevrolet,Chevrolet,cruze,Cruze,Naturally Aspirated,No
+chevrolet,Chevrolet,cruze_limited,Cruze Limited,Turbocharged,No
+chevrolet,Chevrolet,cruze_limited,Cruze Limited,Naturally Aspirated,No
+chevrolet,Chevrolet,equinox,Equinox,Turbocharged,No
+chevrolet,Chevrolet,equinox,Equinox,Naturally Aspirated,No
+chevrolet,Chevrolet,express,Express,Naturally Aspirated,No
+chevrolet,Chevrolet,express,Express,Turbocharged,No
+chevrolet,Chevrolet,express_cargo,Express Cargo,Naturally Aspirated,No
+chevrolet,Chevrolet,express_cargo,Express Cargo,Turbocharged,No
+chevrolet,Chevrolet,hhr,HHR,Naturally Aspirated,No
+chevrolet,Chevrolet,hhr,HHR,Turbocharged,No
+chevrolet,Chevrolet,impala,Impala,Naturally Aspirated,No
+chevrolet,Chevrolet,impala,Impala,Supercharged,No
+chevrolet,Chevrolet,impala_limited,Impala Limited,Naturally Aspirated,No
+chevrolet,Chevrolet,lumina,Lumina,Naturally Aspirated,No
+chevrolet,Chevrolet,lumina_minivan,Lumina Minivan,Naturally Aspirated,No
+chevrolet,Chevrolet,malibu,Malibu,Turbocharged,No
+chevrolet,Chevrolet,malibu,Malibu,Naturally Aspirated,No
+chevrolet,Chevrolet,malibu_classic,Malibu Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,malibu_hybrid,Malibu Hybrid,Naturally Aspirated,No
+chevrolet,Chevrolet,malibu_limited,Malibu Limited,Naturally Aspirated,No
+chevrolet,Chevrolet,malibu_maxx,Malibu Maxx,Naturally Aspirated,No
+chevrolet,Chevrolet,metro,Metro,Naturally Aspirated,No
+chevrolet,Chevrolet,monte_carlo,Monte Carlo,Naturally Aspirated,No
+chevrolet,Chevrolet,monte_carlo,Monte Carlo,Supercharged,No
+chevrolet,Chevrolet,prizm,Prizm,Naturally Aspirated,No
+chevrolet,Chevrolet,r_v_3500_series,R/V 3500 Series,Naturally Aspirated,No
+chevrolet,Chevrolet,s_10,S-10,Naturally Aspirated,No
+chevrolet,Chevrolet,s_10_blazer,S-10 Blazer,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500,Silverado 1500,Turbocharged,No
+chevrolet,Chevrolet,silverado_1500,Silverado 1500,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500_classic,Silverado 1500 Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500_hybrid,Silverado 1500 Hybrid,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500_ld,Silverado 1500 LD,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500_limited,Silverado 1500 Limited,Turbocharged,No
+chevrolet,Chevrolet,silverado_1500_limited,Silverado 1500 Limited,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500_hd,Silverado 1500HD,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_1500_hd_classic,Silverado 1500HD Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_2500,Silverado 2500,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_2500_hd,Silverado 2500HD,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_2500_hd_classic,Silverado 2500HD Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_3500,Silverado 3500,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_3500_classic,Silverado 3500 Classic,Naturally Aspirated,No
+chevrolet,Chevrolet,silverado_3500_hd,Silverado 3500HD,Naturally Aspirated,No
+chevrolet,Chevrolet,sonic,Sonic,Turbocharged,No
+chevrolet,Chevrolet,sonic,Sonic,Naturally Aspirated,No
+chevrolet,Chevrolet,spark,Spark,Naturally Aspirated,No
+chevrolet,Chevrolet,spark_ev,Spark EV,Electric Motor,Yes
+chevrolet,Chevrolet,ss,SS,Naturally Aspirated,No
+chevrolet,Chevrolet,ssr,SSR,Naturally Aspirated,No
+chevrolet,Chevrolet,suburban,Suburban,Naturally Aspirated,No
+chevrolet,Chevrolet,tahoe,Tahoe,Naturally Aspirated,No
+chevrolet,Chevrolet,tahoe_hybrid,Tahoe Hybrid,Naturally Aspirated,No
+chevrolet,Chevrolet,tracker,Tracker,Naturally Aspirated,No
+chevrolet,Chevrolet,trailblazer,Trailblazer,Turbocharged,No
+chevrolet,Chevrolet,trail_blazer,TrailBlazer,Naturally Aspirated,No
+chevrolet,Chevrolet,trail_blazer_ext,TrailBlazer EXT,Naturally Aspirated,No
+chevrolet,Chevrolet,traverse,Traverse,Naturally Aspirated,No
+chevrolet,Chevrolet,traverse,Traverse,Turbocharged,No
+chevrolet,Chevrolet,trax,Trax,Turbocharged,No
+chevrolet,Chevrolet,uplander,Uplander,Naturally Aspirated,No
+chevrolet,Chevrolet,venture,Venture,Naturally Aspirated,No
+chevrolet,Chevrolet,volt,Volt,Naturally Aspirated,No
+chevrolet,Chevrolet,volt,Volt,,No
+chrysler,Chrysler,200,200,Naturally Aspirated,No
+chrysler,Chrysler,300,300,Naturally Aspirated,No
+chrysler,Chrysler,300_m,300M,Naturally Aspirated,No
+chrysler,Chrysler,aspen,Aspen,Naturally Aspirated,No
+chrysler,Chrysler,cirrus,Cirrus,Naturally Aspirated,No
+chrysler,Chrysler,concorde,Concorde,Naturally Aspirated,No
+chrysler,Chrysler,crossfire,Crossfire,Naturally Aspirated,No
+chrysler,Chrysler,crossfire,Crossfire,Supercharged,No
+chrysler,Chrysler,imperial,Imperial,Naturally Aspirated,No
+chrysler,Chrysler,lhs,LHS,Naturally Aspirated,No
+chrysler,Chrysler,new_yorker,New Yorker,Naturally Aspirated,No
+chrysler,Chrysler,pacifica,Pacifica,Naturally Aspirated,No
+chrysler,Chrysler,pacifica_hybrid,Pacifica Hybrid,Naturally Aspirated,No
+chrysler,Chrysler,prowler,Prowler,Naturally Aspirated,No
+chrysler,Chrysler,pt_cruiser,PT Cruiser,Naturally Aspirated,No
+chrysler,Chrysler,pt_cruiser,PT Cruiser,Turbocharged,No
+chrysler,Chrysler,sebring,Sebring,Naturally Aspirated,No
+chrysler,Chrysler,tc,TC,Naturally Aspirated,No
+chrysler,Chrysler,tc,TC,Turbocharged,No
+chrysler,Chrysler,town_and_country,Town and Country,Naturally Aspirated,No
+chrysler,Chrysler,voyager,Voyager,Naturally Aspirated,No
+daewoo,Daewoo,lanos,Lanos,Naturally Aspirated,No
+daewoo,Daewoo,leganza,Leganza,Naturally Aspirated,No
+daewoo,Daewoo,nubira,Nubira,Naturally Aspirated,No
+dodge,Dodge,avenger,Avenger,Naturally Aspirated,No
+dodge,Dodge,caliber,Caliber,Naturally Aspirated,No
+dodge,Dodge,caliber,Caliber,Turbocharged,No
+dodge,Dodge,caravan,Caravan,Naturally Aspirated,No
+dodge,Dodge,caravan,Caravan,Turbocharged,No
+dodge,Dodge,challenger,Challenger,Naturally Aspirated,No
+dodge,Dodge,challenger,Challenger,Supercharged,No
+dodge,Dodge,charger,Charger,Naturally Aspirated,No
+dodge,Dodge,charger,Charger,Supercharged,No
+dodge,Dodge,colt,Colt,Naturally Aspirated,No
+dodge,Dodge,dakota,Dakota,Naturally Aspirated,No
+dodge,Dodge,dart,Dart,Turbocharged,No
+dodge,Dodge,dart,Dart,Naturally Aspirated,No
+dodge,Dodge,daytona,Daytona,Naturally Aspirated,No
+dodge,Dodge,daytona,Daytona,Turbocharged,No
+dodge,Dodge,durango,Durango,Naturally Aspirated,No
+dodge,Dodge,durango,Durango,Supercharged,No
+dodge,Dodge,dynasty,Dynasty,Naturally Aspirated,No
+dodge,Dodge,grand_caravan,Grand Caravan,Naturally Aspirated,No
+dodge,Dodge,hornet,Hornet,Turbocharged,No
+dodge,Dodge,intrepid,Intrepid,Naturally Aspirated,No
+dodge,Dodge,journey,Journey,Naturally Aspirated,No
+dodge,Dodge,magnum,Magnum,Naturally Aspirated,No
+dodge,Dodge,monaco,Monaco,Naturally Aspirated,No
+dodge,Dodge,neon,Neon,Naturally Aspirated,No
+dodge,Dodge,neon,Neon,Turbocharged,No
+dodge,Dodge,nitro,Nitro,Naturally Aspirated,No
+dodge,Dodge,omni,Omni,Naturally Aspirated,No
+dodge,Dodge,ram_150,RAM 150,Naturally Aspirated,No
+dodge,Dodge,ram_250,RAM 250,Naturally Aspirated,No
+dodge,Dodge,ram_350,RAM 350,Turbodiesel,No
+dodge,Dodge,ram_350,RAM 350,Naturally Aspirated,No
+dodge,Dodge,ram_50_pickup,Ram 50 Pickup,Naturally Aspirated,No
+dodge,Dodge,ram_cargo,Ram Cargo,Naturally Aspirated,No
+dodge,Dodge,ram_pickup_1500,Ram Pickup 1500,Naturally Aspirated,No
+dodge,Dodge,ram_pickup_2500,Ram Pickup 2500,Naturally Aspirated,No
+dodge,Dodge,ram_pickup_3500,Ram Pickup 3500,Turbocharged,No
+dodge,Dodge,ram_pickup_3500,Ram Pickup 3500,Naturally Aspirated,No
+dodge,Dodge,ram_van,Ram Van,Naturally Aspirated,No
+dodge,Dodge,ram_wagon,Ram Wagon,Naturally Aspirated,No
+dodge,Dodge,ramcharger,Ramcharger,Naturally Aspirated,No
+dodge,Dodge,shadow,Shadow,Naturally Aspirated,No
+dodge,Dodge,shadow,Shadow,Turbocharged,No
+dodge,Dodge,spirit,Spirit,Naturally Aspirated,No
+dodge,Dodge,spirit,Spirit,Turbocharged,No
+dodge,Dodge,sprinter,Sprinter,Turbocharged,No
+dodge,Dodge,sprinter_cargo,Sprinter Cargo,Turbocharged,No
+dodge,Dodge,srt_viper,SRT Viper,Naturally Aspirated,No
+dodge,Dodge,stealth,Stealth,Naturally Aspirated,No
+dodge,Dodge,stratus,Stratus,Naturally Aspirated,No
+dodge,Dodge,viper,Viper,Naturally Aspirated,No
+ferrari,Ferrari,360,360,Naturally Aspirated,No
+ferrari,Ferrari,430_scuderia,430 Scuderia,Naturally Aspirated,No
+ferrari,Ferrari,456_m,456M,Naturally Aspirated,No
+ferrari,Ferrari,458_italia,458 Italia,Naturally Aspirated,No
+ferrari,Ferrari,488_gtb,488 GTB,Twin-Turbo,No
+ferrari,Ferrari,488_spider,488 Spider,Twin-Turbo,No
+ferrari,Ferrari,550,550,Naturally Aspirated,No
+ferrari,Ferrari,575_m,575M,Naturally Aspirated,No
+ferrari,Ferrari,599,599,Naturally Aspirated,No
+ferrari,Ferrari,612_scaglietti,612 Scaglietti,Naturally Aspirated,No
+ferrari,Ferrari,812_superfast,812 Superfast,Naturally Aspirated,No
+ferrari,Ferrari,california,California,Naturally Aspirated,No
+ferrari,Ferrari,california_t,California T,Twin-Turbo,No
+ferrari,Ferrari,enzo,Enzo,Naturally Aspirated,No
+ferrari,Ferrari,f_12_berlinetta,F12 Berlinetta,Naturally Aspirated,No
+ferrari,Ferrari,f_430,F430,Naturally Aspirated,No
+ferrari,Ferrari,ff,FF,Naturally Aspirated,No
+ferrari,Ferrari,gtc_4_lusso,GTC4Lusso,Naturally Aspirated,No
+ferrari,Ferrari,portofino,Portofino,Twin-Turbo,No
+ferrari,Ferrari,superamerica,Superamerica,Naturally Aspirated,No
+fiat,FIAT,124_spider,124 Spider,Turbocharged,No
+fiat,FIAT,500,500,Turbocharged,No
+fiat,FIAT,500,500,Naturally Aspirated,No
+fiat,FIAT,500_e,500e,Electric Motor,Yes
+fiat,FIAT,500_l,500L,Turbocharged,No
+fiat,FIAT,500_x,500X,Turbocharged,No
+fiat,FIAT,500_x,500X,Naturally Aspirated,No
+fisker,Fisker,karma,Karma,Naturally Aspirated,No
+ford,Ford,aerostar,Aerostar,Naturally Aspirated,No
+ford,Ford,aspire,Aspire,Naturally Aspirated,No
+ford,Ford,bronco,Bronco,Turbocharged,No
+ford,Ford,bronco,Bronco,Twin-Turbo,No
+ford,Ford,bronco,Bronco,Naturally Aspirated,No
+ford,Ford,bronco_ii,Bronco II,Naturally Aspirated,No
+ford,Ford,bronco_sport,Bronco Sport,Turbocharged,No
+ford,Ford,c_max_energi,C-Max Energi,Naturally Aspirated,No
+ford,Ford,c_max_hybrid,C-Max Hybrid,Naturally Aspirated,No
+ford,Ford,contour,Contour,Naturally Aspirated,No
+ford,Ford,contour_svt,Contour SVT,Naturally Aspirated,No
+ford,Ford,crown_victoria,Crown Victoria,Naturally Aspirated,No
+ford,Ford,e_150,E-150,Naturally Aspirated,No
+ford,Ford,e_250,E-250,Naturally Aspirated,No
+ford,Ford,e_350,E-350,Naturally Aspirated,No
+ford,Ford,e_series_van,E-Series Van,Naturally Aspirated,No
+ford,Ford,e_series_wagon,E-Series Wagon,Naturally Aspirated,No
+ford,Ford,e_transit_cargo_van,E-Transit Cargo Van,Electric Motor,Yes
+ford,Ford,econoline_cargo,Econoline Cargo,Naturally Aspirated,No
+ford,Ford,econoline_wagon,Econoline Wagon,Naturally Aspirated,No
+ford,Ford,eco_sport,EcoSport,Naturally Aspirated,No
+ford,Ford,eco_sport,EcoSport,Turbocharged,No
+ford,Ford,edge,Edge,Turbocharged,No
+ford,Ford,edge,Edge,Twin-Turbo,No
+ford,Ford,edge,Edge,Naturally Aspirated,No
+ford,Ford,escape,Escape,Turbocharged,No
+ford,Ford,escape,Escape,Naturally Aspirated,No
+ford,Ford,escape_hybrid,Escape Hybrid,Naturally Aspirated,No
+ford,Ford,escape_plug_in_hybrid,Escape Plug-In Hybrid,Naturally Aspirated,No
+ford,Ford,escort,Escort,Naturally Aspirated,No
+ford,Ford,excursion,Excursion,Naturally Aspirated,No
+ford,Ford,excursion,Excursion,Turbocharged,No
+ford,Ford,expedition,Expedition,Twin-Turbo,No
+ford,Ford,expedition,Expedition,Naturally Aspirated,No
+ford,Ford,expedition_el,Expedition EL,Naturally Aspirated,No
+ford,Ford,explorer,Explorer,Turbocharged,No
+ford,Ford,explorer,Explorer,Twin-Turbo,No
+ford,Ford,explorer,Explorer,Naturally Aspirated,No
+ford,Ford,explorer_sport,Explorer Sport,Naturally Aspirated,No
+ford,Ford,explorer_sport_trac,Explorer Sport Trac,Naturally Aspirated,No
+ford,Ford,f_150,F-150,Naturally Aspirated,No
+ford,Ford,f_150,F-150,Twin-Turbo,No
+ford,Ford,f_150,F-150,Supercharged,No
+ford,Ford,f_150_heritage,F-150 Heritage,Naturally Aspirated,No
+ford,Ford,f_150_lightning,F-150 Lightning,Electric Motor,Yes
+ford,Ford,f_150_svt_lightning,F-150 SVT Lightning,Supercharged,No
+ford,Ford,f_150_svt_lightning,F-150 SVT Lightning,Naturally Aspirated,No
+ford,Ford,f_250,F-250,Naturally Aspirated,No
+ford,Ford,f_250_super_duty,F-250 Super Duty,Naturally Aspirated,No
+ford,Ford,f_250_super_duty,F-250 Super Duty,Turbocharged,No
+ford,Ford,f_350,F-350,Naturally Aspirated,No
+ford,Ford,f_350_super_duty,F-350 Super Duty,Naturally Aspirated,No
+ford,Ford,f_350_super_duty,F-350 Super Duty,Turbocharged,No
+ford,Ford,f_450_super_duty,F-450 Super Duty,Turbocharged,No
+ford,Ford,f_450_super_duty,F-450 Super Duty,Twin-Turbo,No
+ford,Ford,festiva,Festiva,Naturally Aspirated,No
+ford,Ford,fiesta,Fiesta,Naturally Aspirated,No
+ford,Ford,fiesta,Fiesta,Turbocharged,No
+ford,Ford,five_hundred,Five Hundred,Naturally Aspirated,No
+ford,Ford,flex,Flex,Naturally Aspirated,No
+ford,Ford,flex,Flex,Twin-Turbo,No
+ford,Ford,focus,Focus,Electric Motor,Yes
+ford,Ford,focus,Focus,Naturally Aspirated,No
+ford,Ford,focus,Focus,Turbocharged,No
+ford,Ford,focus_rs,Focus RS,Turbocharged,No
+ford,Ford,focus_st,Focus ST,Turbocharged,No
+ford,Ford,freestar,Freestar,Naturally Aspirated,No
+ford,Ford,freestyle,Freestyle,Naturally Aspirated,No
+ford,Ford,fusion,Fusion,Naturally Aspirated,No
+ford,Ford,fusion,Fusion,Turbocharged,No
+ford,Ford,fusion,Fusion,Twin-Turbo,No
+ford,Ford,fusion_energi,Fusion Energi,Naturally Aspirated,No
+ford,Ford,fusion_hybrid,Fusion Hybrid,Naturally Aspirated,No
+ford,Ford,fusion_plug_in_hybrid,Fusion Plug-In Hybrid,Naturally Aspirated,No
+ford,Ford,gt,GT,Twin-Turbo,No
+ford,Ford,gt,GT,Supercharged,No
+ford,Ford,ltd_crown_victoria,LTD Crown Victoria,Naturally Aspirated,No
+ford,Ford,maverick,Maverick,Turbocharged,No
+ford,Ford,maverick,Maverick,Naturally Aspirated,No
+ford,Ford,mustang,Mustang,Naturally Aspirated,No
+ford,Ford,mustang,Mustang,Turbocharged,No
+ford,Ford,mustang,Mustang,Supercharged,No
+ford,Ford,mustang_mach_e,Mustang Mach-E,Electric Motor,Yes
+ford,Ford,mustang_svt_cobra,Mustang SVT Cobra,Naturally Aspirated,No
+ford,Ford,probe,Probe,Naturally Aspirated,No
+ford,Ford,probe,Probe,Turbocharged,No
+ford,Ford,ranger,Ranger,Turbocharged,No
+ford,Ford,ranger,Ranger,Twin-Turbo,No
+ford,Ford,ranger,Ranger,Naturally Aspirated,No
+ford,Ford,shelby_gt_350,Shelby GT350,Naturally Aspirated,No
+ford,Ford,shelby_gt_500,Shelby GT500,Supercharged,No
+ford,Ford,taurus,Taurus,Naturally Aspirated,No
+ford,Ford,taurus,Taurus,Twin-Turbo,No
+ford,Ford,taurus_x,Taurus X,Naturally Aspirated,No
+ford,Ford,tempo,Tempo,Naturally Aspirated,No
+ford,Ford,thunderbird,Thunderbird,Naturally Aspirated,No
+ford,Ford,thunderbird,Thunderbird,,No
+ford,Ford,thunderbird,Thunderbird,Supercharged,No
+ford,Ford,transit_cargo_van,Transit Cargo Van,Naturally Aspirated,No
+ford,Ford,transit_cargo_van,Transit Cargo Van,Twin-Turbo,No
+ford,Ford,transit_connect,Transit Connect,Naturally Aspirated,No
+ford,Ford,transit_connect,Transit Connect,Turbocharged,No
+ford,Ford,transit_connect_cargo_van,Transit Connect Cargo Van,Naturally Aspirated,No
+ford,Ford,transit_connect_passenger_wagon,Transit Connect Passenger Wagon,Naturally Aspirated,No
+ford,Ford,transit_crew_van,Transit Crew Van,Naturally Aspirated,No
+ford,Ford,transit_crew_van,Transit Crew Van,Twin-Turbo,No
+ford,Ford,transit_passenger_van,Transit Passenger Van,Twin-Turbo,No
+ford,Ford,transit_passenger_van,Transit Passenger Van,Naturally Aspirated,No
+ford,Ford,transit_van,Transit Van,Naturally Aspirated,No
+ford,Ford,transit_van,Transit Van,Twin-Turbo,No
+ford,Ford,transit_wagon,Transit Wagon,Naturally Aspirated,No
+ford,Ford,transit_wagon,Transit Wagon,Twin-Turbo,No
+ford,Ford,windstar,Windstar,Naturally Aspirated,No
+ford,Ford,windstar_cargo,Windstar Cargo,Naturally Aspirated,No
+genesis,Genesis,electrified_g_80,Electrified G80,Electric Motor,Yes
+genesis,Genesis,electrified_gv_70,Electrified GV70,Electric Motor,Yes
+genesis,Genesis,g_70,G70,Turbocharged,No
+genesis,Genesis,g_70,G70,Twin-Turbo,No
+genesis,Genesis,g_80,G80,Turbocharged,No
+genesis,Genesis,g_80,G80,Twin-Turbo,No
+genesis,Genesis,g_80,G80,Electric Motor,Yes
+genesis,Genesis,g_80,G80,Naturally Aspirated,No
+genesis,Genesis,g_90,G90,Twin-Turbo,No
+genesis,Genesis,g_90,G90,Twincharged,No
+genesis,Genesis,g_90,G90,Naturally Aspirated,No
+genesis,Genesis,gv_60,GV60,Electric Motor,Yes
+genesis,Genesis,gv_70,GV70,Turbocharged,No
+genesis,Genesis,gv_70,GV70,Twin-Turbo,No
+genesis,Genesis,gv_80,GV80,Turbocharged,No
+genesis,Genesis,gv_80,GV80,Twin-Turbo,No
+gmc,GMC,acadia,Acadia,Naturally Aspirated,No
+gmc,GMC,acadia,Acadia,Turbocharged,No
+gmc,GMC,acadia_limited,Acadia Limited,Naturally Aspirated,No
+gmc,GMC,canyon,Canyon,Turbocharged,No
+gmc,GMC,canyon,Canyon,Naturally Aspirated,No
+gmc,GMC,envoy,Envoy,Naturally Aspirated,No
+gmc,GMC,envoy_xl,Envoy XL,Naturally Aspirated,No
+gmc,GMC,envoy_xuv,Envoy XUV,Naturally Aspirated,No
+gmc,GMC,hummer_ev,HUMMER EV,Electric Motor,Yes
+gmc,GMC,hummer_ev_suv,HUMMER EV SUV,Electric Motor,Yes
+gmc,GMC,jimmy,Jimmy,Naturally Aspirated,No
+gmc,GMC,r_v_3500_series,R/V 3500 Series,Naturally Aspirated,No
+gmc,GMC,rally_wagon,Rally Wagon,Naturally Aspirated,No
+gmc,GMC,s_15,S-15,Naturally Aspirated,No
+gmc,GMC,s_15_jimmy,S-15 Jimmy,Naturally Aspirated,No
+gmc,GMC,safari,Safari,Naturally Aspirated,No
+gmc,GMC,safari_cargo,Safari Cargo,Naturally Aspirated,No
+gmc,GMC,savana,Savana,Naturally Aspirated,No
+gmc,GMC,savana,Savana,Turbocharged,No
+gmc,GMC,savana_cargo,Savana Cargo,Naturally Aspirated,No
+gmc,GMC,savana_cargo,Savana Cargo,Turbocharged,No
+gmc,GMC,sierra_1500,Sierra 1500,Turbocharged,No
+gmc,GMC,sierra_1500,Sierra 1500,Naturally Aspirated,No
+gmc,GMC,sierra_1500_classic,Sierra 1500 Classic,Naturally Aspirated,No
+gmc,GMC,sierra_1500_hybrid,Sierra 1500 Hybrid,Naturally Aspirated,No
+gmc,GMC,sierra_1500_limited,Sierra 1500 Limited,Turbocharged,No
+gmc,GMC,sierra_1500_limited,Sierra 1500 Limited,Naturally Aspirated,No
+gmc,GMC,sierra_1500_hd,Sierra 1500HD,Naturally Aspirated,No
+gmc,GMC,sierra_1500_hd_classic,Sierra 1500HD Classic,Naturally Aspirated,No
+gmc,GMC,sierra_2500,Sierra 2500,Naturally Aspirated,No
+gmc,GMC,sierra_2500_hd,Sierra 2500HD,Naturally Aspirated,No
+gmc,GMC,sierra_2500_hd,Sierra 2500HD,Turbocharged,No
+gmc,GMC,sierra_2500_hd_classic,Sierra 2500HD Classic,Naturally Aspirated,No
+gmc,GMC,sierra_3500,Sierra 3500,Naturally Aspirated,No
+gmc,GMC,sierra_3500_classic,Sierra 3500 Classic,Naturally Aspirated,No
+gmc,GMC,sierra_3500_hd,Sierra 3500HD,Naturally Aspirated,No
+gmc,GMC,sierra_3500_hd,Sierra 3500HD,Turbocharged,No
+gmc,GMC,sierra_c_3,Sierra C3,Naturally Aspirated,No
+gmc,GMC,sonoma,Sonoma,Naturally Aspirated,No
+gmc,GMC,sonoma,Sonoma,Turbocharged,No
+gmc,GMC,suburban,Suburban,Naturally Aspirated,No
+gmc,GMC,terrain,Terrain,Turbocharged,No
+gmc,GMC,terrain,Terrain,Naturally Aspirated,No
+gmc,GMC,vandura,Vandura,Naturally Aspirated,No
+gmc,GMC,yukon,Yukon,Naturally Aspirated,No
+gmc,GMC,yukon_hybrid,Yukon Hybrid,Naturally Aspirated,No
+gmc,GMC,yukon_xl,Yukon XL,Naturally Aspirated,No
+honda,Honda,accord,Accord,Turbocharged,No
+honda,Honda,accord,Accord,Naturally Aspirated,No
+honda,Honda,accord_crosstour,Accord Crosstour,Naturally Aspirated,No
+honda,Honda,accord_hybrid,Accord Hybrid,Naturally Aspirated,No
+honda,Honda,accord_plug_in_hybrid,Accord Plug-In Hybrid,Naturally Aspirated,No
+honda,Honda,civic,Civic,Turbocharged,No
+honda,Honda,civic,Civic,Naturally Aspirated,No
+honda,Honda,civic_crx,Civic CRX,Naturally Aspirated,No
+honda,Honda,civic_del_sol,Civic del Sol,Naturally Aspirated,No
+honda,Honda,clarity,Clarity,Naturally Aspirated,No
+honda,Honda,clarity,Clarity,Electric Motor,Yes
+honda,Honda,cr_v,CR-V,Turbocharged,No
+honda,Honda,cr_v,CR-V,Naturally Aspirated,No
+honda,Honda,cr_v_hybrid,CR-V Hybrid,Naturally Aspirated,No
+honda,Honda,cr_z,CR-Z,Naturally Aspirated,No
+honda,Honda,crosstour,Crosstour,Naturally Aspirated,No
+honda,Honda,element,Element,Naturally Aspirated,No
+honda,Honda,fit,Fit,Naturally Aspirated,No
+honda,Honda,fit_ev,Fit EV,Electric Motor,Yes
+honda,Honda,hr_v,HR-V,Naturally Aspirated,No
+honda,Honda,insight,Insight,Naturally Aspirated,No
+honda,Honda,odyssey,Odyssey,Naturally Aspirated,No
+honda,Honda,passport,Passport,Naturally Aspirated,No
+honda,Honda,pilot,Pilot,Naturally Aspirated,No
+honda,Honda,prelude,Prelude,Naturally Aspirated,No
+honda,Honda,ridgeline,Ridgeline,Naturally Aspirated,No
+honda,Honda,s_2000,S2000,Naturally Aspirated,No
+hummer,HUMMER,h_1,H1,Turbocharged,No
+hummer,HUMMER,h_1_alpha,H1 Alpha,Turbocharged,No
+hummer,HUMMER,h_2,H2,Naturally Aspirated,No
+hummer,HUMMER,h_2_sut,H2 SUT,Naturally Aspirated,No
+hummer,HUMMER,h_3,H3,Naturally Aspirated,No
+hummer,HUMMER,h_3_t,H3T,Naturally Aspirated,No
+hyundai,Hyundai,accent,Accent,Naturally Aspirated,No
+hyundai,Hyundai,azera,Azera,Naturally Aspirated,No
+hyundai,Hyundai,elantra,Elantra,Naturally Aspirated,No
+hyundai,Hyundai,elantra,Elantra,Turbocharged,No
+hyundai,Hyundai,elantra_coupe,Elantra Coupe,Naturally Aspirated,No
+hyundai,Hyundai,elantra_gt,Elantra GT,Naturally Aspirated,No
+hyundai,Hyundai,elantra_gt,Elantra GT,Turbocharged,No
+hyundai,Hyundai,elantra_touring,Elantra Touring,Naturally Aspirated,No
+hyundai,Hyundai,entourage,Entourage,Naturally Aspirated,No
+hyundai,Hyundai,equus,Equus,Naturally Aspirated,No
+hyundai,Hyundai,excel,Excel,Naturally Aspirated,No
+hyundai,Hyundai,genesis,Genesis,Naturally Aspirated,No
+hyundai,Hyundai,genesis_coupe,Genesis Coupe,Naturally Aspirated,No
+hyundai,Hyundai,genesis_coupe,Genesis Coupe,Turbocharged,No
+hyundai,Hyundai,ioniq_5,IONIQ 5,Electric Motor,Yes
+hyundai,Hyundai,ioniq_6,IONIQ 6,Electric Motor,Yes
+hyundai,Hyundai,ioniq_electric,Ioniq Electric,Electric Motor,Yes
+hyundai,Hyundai,ioniq_hybrid,Ioniq Hybrid,Naturally Aspirated,No
+hyundai,Hyundai,ioniq_plug_in_hybrid,Ioniq Plug-In Hybrid,Naturally Aspirated,No
+hyundai,Hyundai,kona,Kona,Turbocharged,No
+hyundai,Hyundai,kona,Kona,Naturally Aspirated,No
+hyundai,Hyundai,kona_electric,Kona Electric,Electric Motor,Yes
+hyundai,Hyundai,nexo,NEXO,Naturally Aspirated,No
+hyundai,Hyundai,palisade,Palisade,Naturally Aspirated,No
+hyundai,Hyundai,santa_cruz,Santa Cruz,Turbocharged,No
+hyundai,Hyundai,santa_cruz,Santa Cruz,Naturally Aspirated,No
+hyundai,Hyundai,santa_fe,Santa Fe,Turbocharged,No
+hyundai,Hyundai,santa_fe,Santa Fe,Naturally Aspirated,No
+hyundai,Hyundai,santa_fe_hybrid,Santa Fe Hybrid,Turbocharged,No
+hyundai,Hyundai,santa_fe_plug_in_hybrid,Santa Fe Plug-In Hybrid,Turbocharged,No
+hyundai,Hyundai,santa_fe_sport,Santa Fe Sport,Turbocharged,No
+hyundai,Hyundai,santa_fe_sport,Santa Fe Sport,Naturally Aspirated,No
+hyundai,Hyundai,santa_fe_xl,Santa Fe XL,Naturally Aspirated,No
+hyundai,Hyundai,scoupe,Scoupe,Naturally Aspirated,No
+hyundai,Hyundai,scoupe,Scoupe,Turbocharged,No
+hyundai,Hyundai,sonata,Sonata,Turbocharged,No
+hyundai,Hyundai,sonata,Sonata,Naturally Aspirated,No
+hyundai,Hyundai,sonata_hybrid,Sonata Hybrid,Naturally Aspirated,No
+hyundai,Hyundai,sonata_plug_in_hybrid,Sonata Plug-in Hybrid,Naturally Aspirated,No
+hyundai,Hyundai,tiburon,Tiburon,Naturally Aspirated,No
+hyundai,Hyundai,tucson,Tucson,Turbocharged,No
+hyundai,Hyundai,tucson,Tucson,Naturally Aspirated,No
+hyundai,Hyundai,tucson_plug_in_hybrid,Tucson Plug-In Hybrid,Turbocharged,No
+hyundai,Hyundai,veloster,Veloster,Turbocharged,No
+hyundai,Hyundai,veloster,Veloster,Naturally Aspirated,No
+hyundai,Hyundai,venue,Venue,Naturally Aspirated,No
+hyundai,Hyundai,veracruz,Veracruz,Naturally Aspirated,No
+hyundai,Hyundai,xg_300,XG300,Naturally Aspirated,No
+hyundai,Hyundai,xg_350,XG350,Naturally Aspirated,No
+infiniti,INFINITI,ex,EX,Naturally Aspirated,No
+infiniti,INFINITI,ex_35,EX35,Naturally Aspirated,No
+infiniti,INFINITI,fx,FX,Naturally Aspirated,No
+infiniti,INFINITI,fx_35,FX35,Naturally Aspirated,No
+infiniti,INFINITI,fx_45,FX45,Naturally Aspirated,No
+infiniti,INFINITI,fx_50,FX50,Naturally Aspirated,No
+infiniti,INFINITI,g_convertible,G Convertible,Naturally Aspirated,No
+infiniti,INFINITI,g_coupe,G Coupe,Naturally Aspirated,No
+infiniti,INFINITI,g_sedan,G Sedan,Naturally Aspirated,No
+infiniti,INFINITI,g_20,G20,Naturally Aspirated,No
+infiniti,INFINITI,g_35,G35,Naturally Aspirated,No
+infiniti,INFINITI,g_37,G37,Naturally Aspirated,No
+infiniti,INFINITI,g_37_convertible,G37 Convertible,Naturally Aspirated,No
+infiniti,INFINITI,g_37_coupe,G37 Coupe,Naturally Aspirated,No
+infiniti,INFINITI,g_37_sedan,G37 Sedan,Naturally Aspirated,No
+infiniti,INFINITI,i_30,I30,Naturally Aspirated,No
+infiniti,INFINITI,i_35,I35,Naturally Aspirated,No
+infiniti,INFINITI,j_30,J30,Naturally Aspirated,No
+infiniti,INFINITI,jx,JX,Naturally Aspirated,No
+infiniti,INFINITI,m,M,Naturally Aspirated,No
+infiniti,INFINITI,m_30,M30,Naturally Aspirated,No
+infiniti,INFINITI,m_35,M35,Naturally Aspirated,No
+infiniti,INFINITI,m_37,M37,Naturally Aspirated,No
+infiniti,INFINITI,m_45,M45,Naturally Aspirated,No
+infiniti,INFINITI,m_56,M56,Naturally Aspirated,No
+infiniti,INFINITI,q_40,Q40,Naturally Aspirated,No
+infiniti,INFINITI,q_45,Q45,Naturally Aspirated,No
+infiniti,INFINITI,q_50,Q50,Twin-Turbo,No
+infiniti,INFINITI,q_50,Q50,Turbocharged,No
+infiniti,INFINITI,q_50,Q50,Naturally Aspirated,No
+infiniti,INFINITI,q_60,Q60,Twin-Turbo,No
+infiniti,INFINITI,q_60,Q60,Turbocharged,No
+infiniti,INFINITI,q_60_convertible,Q60 Convertible,Naturally Aspirated,No
+infiniti,INFINITI,q_60_coupe,Q60 Coupe,Naturally Aspirated,No
+infiniti,INFINITI,q_70,Q70,Naturally Aspirated,No
+infiniti,INFINITI,qx,QX,Naturally Aspirated,No
+infiniti,INFINITI,qx_30,QX30,Turbocharged,No
+infiniti,INFINITI,qx_4,QX4,Naturally Aspirated,No
+infiniti,INFINITI,qx_50,QX50,Turbocharged,No
+infiniti,INFINITI,qx_50,QX50,Naturally Aspirated,No
+infiniti,INFINITI,qx_55,QX55,Turbocharged,No
+infiniti,INFINITI,qx_56,QX56,Naturally Aspirated,No
+infiniti,INFINITI,qx_60,QX60,Naturally Aspirated,No
+infiniti,INFINITI,qx_60,QX60,Supercharged,No
+infiniti,INFINITI,qx_70,QX70,Naturally Aspirated,No
+infiniti,INFINITI,qx_80,QX80,Naturally Aspirated,No
+isuzu,Isuzu,amigo,Amigo,Naturally Aspirated,No
+isuzu,Isuzu,ascender,Ascender,Naturally Aspirated,No
+isuzu,Isuzu,axiom,Axiom,Naturally Aspirated,No
+isuzu,Isuzu,hombre,Hombre,Naturally Aspirated,No
+isuzu,Isuzu,i_series,i-Series,Naturally Aspirated,No
+isuzu,Isuzu,impulse,Impulse,Turbocharged,No
+isuzu,Isuzu,impulse,Impulse,Naturally Aspirated,No
+isuzu,Isuzu,oasis,Oasis,Naturally Aspirated,No
+isuzu,Isuzu,pickup,Pickup,Naturally Aspirated,No
+isuzu,Isuzu,rodeo,Rodeo,Naturally Aspirated,No
+isuzu,Isuzu,rodeo_sport,Rodeo Sport,Naturally Aspirated,No
+isuzu,Isuzu,stylus,Stylus,Naturally Aspirated,No
+isuzu,Isuzu,trooper,Trooper,Naturally Aspirated,No
+isuzu,Isuzu,vehi_cross,VehiCROSS,Naturally Aspirated,No
+jaguar,Jaguar,e_pace,E-PACE,Turbocharged,No
+jaguar,Jaguar,f_pace,F-PACE,Turbocharged,No
+jaguar,Jaguar,f_pace,F-PACE,Twincharged,No
+jaguar,Jaguar,f_pace,F-PACE,Supercharged,No
+jaguar,Jaguar,f_type,F-TYPE,Supercharged,No
+jaguar,Jaguar,f_type,F-TYPE,Turbocharged,No
+jaguar,Jaguar,i_pace,I-PACE,Electric Motor,Yes
+jaguar,Jaguar,s_type,S-Type,Naturally Aspirated,No
+jaguar,Jaguar,s_type,S-Type,Supercharged,No
+jaguar,Jaguar,x_type,X-Type,Naturally Aspirated,No
+jaguar,Jaguar,xe,XE,Turbocharged,No
+jaguar,Jaguar,xe,XE,Supercharged,No
+jaguar,Jaguar,xf,XF,Turbocharged,No
+jaguar,Jaguar,xf,XF,Supercharged,No
+jaguar,Jaguar,xf,XF,Naturally Aspirated,No
+jaguar,Jaguar,xj,XJ,Supercharged,No
+jaguar,Jaguar,xj,XJ,Naturally Aspirated,No
+jaguar,Jaguar,xj_series,XJ-Series,Supercharged,No
+jaguar,Jaguar,xj_series,XJ-Series,Naturally Aspirated,No
+jaguar,Jaguar,xjr,XJR,Supercharged,No
+jaguar,Jaguar,xk,XK,Naturally Aspirated,No
+jaguar,Jaguar,xk,XK,Supercharged,No
+jaguar,Jaguar,xk_series,XK-Series,Naturally Aspirated,No
+jaguar,Jaguar,xk_series,XK-Series,Supercharged,No
+jaguar,Jaguar,xkr,XKR,Supercharged,No
+jeep,Jeep,cherokee,Cherokee,Naturally Aspirated,No
+jeep,Jeep,cherokee,Cherokee,Turbocharged,No
+jeep,Jeep,commander,Commander,Naturally Aspirated,No
+jeep,Jeep,compass,Compass,Turbocharged,No
+jeep,Jeep,compass,Compass,Naturally Aspirated,No
+jeep,Jeep,gladiator,Gladiator,Naturally Aspirated,No
+jeep,Jeep,grand_cherokee,Grand Cherokee,Naturally Aspirated,No
+jeep,Jeep,grand_cherokee,Grand Cherokee,Supercharged,No
+jeep,Jeep,grand_cherokee,Grand Cherokee,Turbocharged,No
+jeep,Jeep,grand_cherokee_4_xe,Grand Cherokee 4xe,Turbocharged,No
+jeep,Jeep,grand_cherokee_l,Grand Cherokee L,Naturally Aspirated,No
+jeep,Jeep,grand_cherokee_srt,Grand Cherokee SRT,Naturally Aspirated,No
+jeep,Jeep,grand_cherokee_wk,Grand Cherokee WK,Naturally Aspirated,No
+jeep,Jeep,grand_wagoneer,Grand Wagoneer,Twin-Turbo,No
+jeep,Jeep,grand_wagoneer,Grand Wagoneer,Naturally Aspirated,No
+jeep,Jeep,grand_wagoneer_l,Grand Wagoneer L,Twin-Turbo,No
+jeep,Jeep,liberty,Liberty,Naturally Aspirated,No
+jeep,Jeep,patriot,Patriot,Naturally Aspirated,No
+jeep,Jeep,renegade,Renegade,Turbocharged,No
+jeep,Jeep,renegade,Renegade,Naturally Aspirated,No
+jeep,Jeep,wagoneer,Wagoneer,Twin-Turbo,No
+jeep,Jeep,wagoneer,Wagoneer,Naturally Aspirated,No
+jeep,Jeep,wagoneer_l,Wagoneer L,Twin-Turbo,No
+jeep,Jeep,wrangler,Wrangler,Naturally Aspirated,No
+jeep,Jeep,wrangler,Wrangler,Turbocharged,No
+jeep,Jeep,wrangler_4_xe,Wrangler 4xe,Turbocharged,No
+jeep,Jeep,wrangler_jk,Wrangler JK,Naturally Aspirated,No
+karma,Karma,gs_6,GS-6,Turbocharged,No
+karma,Karma,revero_gt,Revero GT,Turbocharged,No
+kia,Kia,amanti,Amanti,Naturally Aspirated,No
+kia,Kia,borrego,Borrego,Naturally Aspirated,No
+kia,Kia,cadenza,Cadenza,Naturally Aspirated,No
+kia,Kia,carnival,Carnival,Naturally Aspirated,No
+kia,Kia,ev_6,EV6,Electric Motor,Yes
+kia,Kia,forte,Forte,Turbocharged,No
+kia,Kia,forte,Forte,Naturally Aspirated,No
+kia,Kia,k_5,K5,Turbocharged,No
+kia,Kia,k_900,K900,Twin-Turbo,No
+kia,Kia,k_900,K900,Naturally Aspirated,No
+kia,Kia,niro,Niro,Naturally Aspirated,No
+kia,Kia,niro_ev,Niro EV,Electric Motor,Yes
+kia,Kia,niro_plug_in_hybrid,Niro Plug-In Hybrid,Naturally Aspirated,No
+kia,Kia,optima,Optima,Turbocharged,No
+kia,Kia,optima,Optima,Naturally Aspirated,No
+kia,Kia,optima_hybrid,Optima Hybrid,Naturally Aspirated,No
+kia,Kia,optima_plug_in_hybrid,Optima Plug-In Hybrid,Naturally Aspirated,No
+kia,Kia,rio,Rio,Naturally Aspirated,No
+kia,Kia,rondo,Rondo,Naturally Aspirated,No
+kia,Kia,sedona,Sedona,Naturally Aspirated,No
+kia,Kia,seltos,Seltos,Naturally Aspirated,No
+kia,Kia,seltos,Seltos,Turbocharged,No
+kia,Kia,sephia,Sephia,Naturally Aspirated,No
+kia,Kia,sorento,Sorento,Turbocharged,No
+kia,Kia,sorento,Sorento,Naturally Aspirated,No
+kia,Kia,sorento_hybrid,Sorento Hybrid,Turbocharged,No
+kia,Kia,sorento_plug_in_hybrid,Sorento Plug-In Hybrid,Turbocharged,No
+kia,Kia,soul,Soul,Naturally Aspirated,No
+kia,Kia,soul,Soul,Turbocharged,No
+kia,Kia,soul_ev,Soul EV,Electric Motor,Yes
+kia,Kia,spectra,Spectra,Naturally Aspirated,No
+kia,Kia,sportage,Sportage,Naturally Aspirated,No
+kia,Kia,sportage,Sportage,Turbocharged,No
+kia,Kia,sportage_hybrid,Sportage Hybrid,Turbocharged,No
+kia,Kia,sportage_plug_in_hybrid,Sportage Plug-In Hybrid,Turbocharged,No
+kia,Kia,stinger,Stinger,Turbocharged,No
+kia,Kia,stinger,Stinger,Twin-Turbo,No
+kia,Kia,telluride,Telluride,Naturally Aspirated,No
+lamborghini,Lamborghini,aventador,Aventador,Naturally Aspirated,No
+lamborghini,Lamborghini,diablo,Diablo,Naturally Aspirated,No
+lamborghini,Lamborghini,gallardo,Gallardo,Naturally Aspirated,No
+lamborghini,Lamborghini,huracan,Huracan,Naturally Aspirated,No
+lamborghini,Lamborghini,huracan_sto,Huracan STO,Naturally Aspirated,No
+lamborghini,Lamborghini,murcielago,Murcielago,Naturally Aspirated,No
+lamborghini,Lamborghini,reventon,Reventon,Naturally Aspirated,No
+lamborghini,Lamborghini,urus,Urus,Twin-Turbo,No
+land_rover,Land Rover,defender,Defender,Turbocharged,No
+land_rover,Land Rover,defender,Defender,Twincharged,No
+land_rover,Land Rover,defender,Defender,Supercharged,No
+land_rover,Land Rover,defender,Defender,Naturally Aspirated,No
+land_rover,Land Rover,discovery,Discovery,Turbocharged,No
+land_rover,Land Rover,discovery,Discovery,Twincharged,No
+land_rover,Land Rover,discovery,Discovery,Supercharged,No
+land_rover,Land Rover,discovery,Discovery,Naturally Aspirated,No
+land_rover,Land Rover,discovery_series_ii,Discovery Series II,Naturally Aspirated,No
+land_rover,Land Rover,discovery_sport,Discovery Sport,Turbocharged,No
+land_rover,Land Rover,freelander,Freelander,Naturally Aspirated,No
+land_rover,Land Rover,lr_2,LR2,Turbocharged,No
+land_rover,Land Rover,lr_2,LR2,Naturally Aspirated,No
+land_rover,Land Rover,lr_3,LR3,Naturally Aspirated,No
+land_rover,Land Rover,lr_4,LR4,Supercharged,No
+land_rover,Land Rover,lr_4,LR4,Naturally Aspirated,No
+land_rover,Land Rover,range_rover,Range Rover,Twincharged,No
+land_rover,Land Rover,range_rover,Range Rover,Twin-Turbo,No
+land_rover,Land Rover,range_rover,Range Rover,Supercharged,No
+land_rover,Land Rover,range_rover,Range Rover,Turbocharged,No
+land_rover,Land Rover,range_rover,Range Rover,Naturally Aspirated,No
+land_rover,Land Rover,range_rover_evoque,Range Rover Evoque,Turbocharged,No
+land_rover,Land Rover,range_rover_sport,Range Rover Sport,Twincharged,No
+land_rover,Land Rover,range_rover_sport,Range Rover Sport,Twin-Turbo,No
+land_rover,Land Rover,range_rover_sport,Range Rover Sport,Turbocharged,No
+land_rover,Land Rover,range_rover_sport,Range Rover Sport,Supercharged,No
+land_rover,Land Rover,range_rover_sport,Range Rover Sport,Naturally Aspirated,No
+land_rover,Land Rover,range_rover_velar,Range Rover Velar,Turbocharged,No
+land_rover,Land Rover,range_rover_velar,Range Rover Velar,Twincharged,No
+land_rover,Land Rover,range_rover_velar,Range Rover Velar,Supercharged,No
+lexus,Lexus,ct_200_h,CT 200h,Naturally Aspirated,No
+lexus,Lexus,es,ES,Naturally Aspirated,No
+lexus,Lexus,es_250,ES 250,Naturally Aspirated,No
+lexus,Lexus,es_300,ES 300,Naturally Aspirated,No
+lexus,Lexus,es_300_h,ES 300h,Naturally Aspirated,No
+lexus,Lexus,es_330,ES 330,Naturally Aspirated,No
+lexus,Lexus,es_350,ES 350,Naturally Aspirated,No
+lexus,Lexus,gs_200_t,GS 200t,Turbocharged,No
+lexus,Lexus,gs_300,GS 300,Turbocharged,No
+lexus,Lexus,gs_300,GS 300,Naturally Aspirated,No
+lexus,Lexus,gs_350,GS 350,Naturally Aspirated,No
+lexus,Lexus,gs_430,GS 430,Naturally Aspirated,No
+lexus,Lexus,gs_450_h,GS 450h,Naturally Aspirated,No
+lexus,Lexus,gs_460,GS 460,Naturally Aspirated,No
+lexus,Lexus,gs_f,GS F,Naturally Aspirated,No
+lexus,Lexus,gx_460,GX 460,Naturally Aspirated,No
+lexus,Lexus,gx_470,GX 470,Naturally Aspirated,No
+lexus,Lexus,hs_250_h,HS 250h,Naturally Aspirated,No
+lexus,Lexus,is,IS,Turbocharged,No
+lexus,Lexus,is,IS,Naturally Aspirated,No
+lexus,Lexus,is_200_t,IS 200t,Turbocharged,No
+lexus,Lexus,is_250,IS 250,Naturally Aspirated,No
+lexus,Lexus,is_250_c,IS 250 C,Naturally Aspirated,No
+lexus,Lexus,is_300,IS 300,Turbocharged,No
+lexus,Lexus,is_300,IS 300,Naturally Aspirated,No
+lexus,Lexus,is_350,IS 350,Naturally Aspirated,No
+lexus,Lexus,is_350_c,IS 350 C,Naturally Aspirated,No
+lexus,Lexus,is_500,IS 500,Naturally Aspirated,No
+lexus,Lexus,is_f,IS F,Naturally Aspirated,No
+lexus,Lexus,lc,LC,Naturally Aspirated,No
+lexus,Lexus,lc_500,LC 500,Naturally Aspirated,No
+lexus,Lexus,lc_500_convertible,LC 500 Convertible,Naturally Aspirated,No
+lexus,Lexus,lc_500_h,LC 500h,Naturally Aspirated,No
+lexus,Lexus,lfa,LFA,Naturally Aspirated,No
+lexus,Lexus,ls_400,LS 400,Naturally Aspirated,No
+lexus,Lexus,ls_430,LS 430,Naturally Aspirated,No
+lexus,Lexus,ls_460,LS 460,Naturally Aspirated,No
+lexus,Lexus,ls_500,LS 500,Twin-Turbo,No
+lexus,Lexus,ls_500_h,LS 500h,Naturally Aspirated,No
+lexus,Lexus,ls_600_h_l,LS 600h L,Naturally Aspirated,No
+lexus,Lexus,lx,LX,Twin-Turbo,No
+lexus,Lexus,lx_470,LX 470,Naturally Aspirated,No
+lexus,Lexus,lx_570,LX 570,Naturally Aspirated,No
+lexus,Lexus,lx_600,LX 600,Twin-Turbo,No
+lexus,Lexus,nx,NX,Naturally Aspirated,No
+lexus,Lexus,nx,NX,Turbocharged,No
+lexus,Lexus,nx_200_t,NX 200t,Turbocharged,No
+lexus,Lexus,nx_250,NX 250,Naturally Aspirated,No
+lexus,Lexus,nx_300,NX 300,Turbocharged,No
+lexus,Lexus,nx_300_h,NX 300h,Naturally Aspirated,No
+lexus,Lexus,nx_350,NX 350,Turbocharged,No
+lexus,Lexus,nx_350_h,NX 350h,Naturally Aspirated,No
+lexus,Lexus,nx_450_h,NX 450h+,Naturally Aspirated,No
+lexus,Lexus,rc,RC,Naturally Aspirated,No
+lexus,Lexus,rc,RC,Turbocharged,No
+lexus,Lexus,rc_200_t,RC 200t,Turbocharged,No
+lexus,Lexus,rc_300,RC 300,Turbocharged,No
+lexus,Lexus,rc_300,RC 300,Naturally Aspirated,No
+lexus,Lexus,rc_350,RC 350,Naturally Aspirated,No
+lexus,Lexus,rc_f,RC F,Naturally Aspirated,No
+lexus,Lexus,rx,RX,Turbocharged,No
+lexus,Lexus,rx,RX,Naturally Aspirated,No
+lexus,Lexus,rx_300,RX 300,Naturally Aspirated,No
+lexus,Lexus,rx_330,RX 330,Naturally Aspirated,No
+lexus,Lexus,rx_350,RX 350,Turbocharged,No
+lexus,Lexus,rx_350,RX 350,Naturally Aspirated,No
+lexus,Lexus,rx_350_h,RX 350h,Naturally Aspirated,No
+lexus,Lexus,rx_350_l,RX 350L,Naturally Aspirated,No
+lexus,Lexus,rx_400_h,RX 400h,Naturally Aspirated,No
+lexus,Lexus,rx_450_h,RX 450h,Naturally Aspirated,No
+lexus,Lexus,rx_450_h_l,RX 450hL,Naturally Aspirated,No
+lexus,Lexus,rx_500_h,RX 500h,Turbocharged,No
+lexus,Lexus,rz_450_e,RZ 450e,Electric Motor,Yes
+lexus,Lexus,sc_430,SC 430,Naturally Aspirated,No
+lexus,Lexus,tx,TX,Turbocharged,No
+lexus,Lexus,ux,UX,Naturally Aspirated,No
+lexus,Lexus,ux_200,UX 200,Naturally Aspirated,No
+lexus,Lexus,ux_250_h,UX 250h,Naturally Aspirated,No
+lincoln,Lincoln,aviator,Aviator,Twin-Turbo,No
+lincoln,Lincoln,aviator,Aviator,Naturally Aspirated,No
+lincoln,Lincoln,blackwood,Blackwood,Naturally Aspirated,No
+lincoln,Lincoln,continental,Continental,Naturally Aspirated,No
+lincoln,Lincoln,continental,Continental,Twin-Turbo,No
+lincoln,Lincoln,corsair,Corsair,Naturally Aspirated,No
+lincoln,Lincoln,corsair,Corsair,Turbocharged,No
+lincoln,Lincoln,ls,LS,Naturally Aspirated,No
+lincoln,Lincoln,mark_lt,Mark LT,Naturally Aspirated,No
+lincoln,Lincoln,mark_vii,Mark VII,Naturally Aspirated,No
+lincoln,Lincoln,mark_viii,Mark VIII,Naturally Aspirated,No
+lincoln,Lincoln,mkc,MKC,Turbocharged,No
+lincoln,Lincoln,mks,MKS,Naturally Aspirated,No
+lincoln,Lincoln,mks,MKS,Twin-Turbo,No
+lincoln,Lincoln,mkt,MKT,Twin-Turbo,No
+lincoln,Lincoln,mkt,MKT,Naturally Aspirated,No
+lincoln,Lincoln,mkx,MKX,Naturally Aspirated,No
+lincoln,Lincoln,mkz,MKZ,Turbocharged,No
+lincoln,Lincoln,mkz,MKZ,Naturally Aspirated,No
+lincoln,Lincoln,mkz_hybrid,MKZ Hybrid,Naturally Aspirated,No
+lincoln,Lincoln,nautilus,Nautilus,Turbocharged,No
+lincoln,Lincoln,nautilus,Nautilus,Twin-Turbo,No
+lincoln,Lincoln,navigator,Navigator,Twin-Turbo,No
+lincoln,Lincoln,navigator,Navigator,Naturally Aspirated,No
+lincoln,Lincoln,navigator_l,Navigator L,Naturally Aspirated,No
+lincoln,Lincoln,town_car,Town Car,Naturally Aspirated,No
+lincoln,Lincoln,zephyr,Zephyr,Naturally Aspirated,No
+lotus,Lotus,elise,Elise,Naturally Aspirated,No
+lotus,Lotus,elise,Elise,Supercharged,No
+lotus,Lotus,esprit,Esprit,Twin-Turbo,No
+lotus,Lotus,evora,Evora,Naturally Aspirated,No
+lotus,Lotus,evora,Evora,Supercharged,No
+lotus,Lotus,evora_400,Evora 400,Supercharged,No
+lotus,Lotus,evora_gt,Evora GT,Supercharged,No
+lotus,Lotus,exige,Exige,Supercharged,No
+lotus,Lotus,exige,Exige,Naturally Aspirated,No
+lucid,Lucid,air,Air,Electric Motor,Yes
+maserati,Maserati,coupe,Coupe,Naturally Aspirated,No
+maserati,Maserati,ghibli,Ghibli,Twin-Turbo,No
+maserati,Maserati,gran_sport,GranSport,Naturally Aspirated,No
+maserati,Maserati,gran_turismo,GranTurismo,Naturally Aspirated,No
+maserati,Maserati,gran_turismo_convertible,GranTurismo Convertible,Naturally Aspirated,No
+maserati,Maserati,levante,Levante,Twin-Turbo,No
+maserati,Maserati,mc_20,MC20,Twin-Turbo,No
+maserati,Maserati,quattroporte,Quattroporte,Twin-Turbo,No
+maserati,Maserati,quattroporte,Quattroporte,Naturally Aspirated,No
+maserati,Maserati,spyder,Spyder,Naturally Aspirated,No
+maybach,Maybach,57,57,Twin-Turbo,No
+maybach,Maybach,62,62,Twin-Turbo,No
+maybach,Maybach,landaulet,Landaulet,Twin-Turbo,No
+mazda,Mazda,2,2,Naturally Aspirated,No
+mazda,Mazda,3,3,Turbocharged,No
+mazda,Mazda,3,3,Naturally Aspirated,No
+mazda,Mazda,323,323,Naturally Aspirated,No
+mazda,Mazda,5,5,Naturally Aspirated,No
+mazda,Mazda,6,6,Turbocharged,No
+mazda,Mazda,6,6,Naturally Aspirated,No
+mazda,Mazda,626,626,Naturally Aspirated,No
+mazda,Mazda,626,626,Turbocharged,No
+mazda,Mazda,929,929,Naturally Aspirated,No
+mazda,Mazda,b_series,B-Series,Naturally Aspirated,No
+mazda,Mazda,b_series_pickup,B-Series Pickup,Naturally Aspirated,No
+mazda,Mazda,b_series_truck,B-Series Truck,Naturally Aspirated,No
+mazda,Mazda,cx_3,CX-3,Naturally Aspirated,No
+mazda,Mazda,cx_30,CX-30,Turbocharged,No
+mazda,Mazda,cx_30,CX-30,Naturally Aspirated,No
+mazda,Mazda,cx_5,CX-5,Turbocharged,No
+mazda,Mazda,cx_5,CX-5,Naturally Aspirated,No
+mazda,Mazda,cx_5,CX-5,Twin-Turbo,No
+mazda,Mazda,cx_50,CX-50,Naturally Aspirated,No
+mazda,Mazda,cx_50,CX-50,Turbocharged,No
+mazda,Mazda,cx_7,CX-7,Naturally Aspirated,No
+mazda,Mazda,cx_7,CX-7,Turbocharged,No
+mazda,Mazda,cx_9,CX-9,Turbocharged,No
+mazda,Mazda,cx_9,CX-9,Naturally Aspirated,No
+mazda,Mazda,cx_90,CX-90,Turbocharged,No
+mazda,Mazda,cx_90,CX-90,Naturally Aspirated,No
+mazda,Mazda,mazdaspeed_3,Mazdaspeed 3,Turbocharged,No
+mazda,Mazda,mazdaspeed_6,Mazdaspeed 6,Turbocharged,No
+mazda,Mazda,mazdaspeed_mx_5_miata,Mazdaspeed MX-5 Miata,Turbocharged,No
+mazda,Mazda,mazdaspeed_protege,Mazdaspeed Protege,Turbocharged,No
+mazda,Mazda,millenia,Millenia,Naturally Aspirated,No
+mazda,Mazda,millenia,Millenia,Supercharged,No
+mazda,Mazda,mpv,MPV,Naturally Aspirated,No
+mazda,Mazda,mx_3,MX-3,Naturally Aspirated,No
+mazda,Mazda,mx_30,MX-30,Electric Motor,Yes
+mazda,Mazda,mx_5_miata,MX-5 Miata,Naturally Aspirated,No
+mazda,Mazda,mx_5_miata_rf,MX-5 Miata RF,Naturally Aspirated,No
+mazda,Mazda,mx_6,MX-6,Naturally Aspirated,No
+mazda,Mazda,navajo,Navajo,Naturally Aspirated,No
+mazda,Mazda,protege,Protege,Naturally Aspirated,No
+mazda,Mazda,protege_5,Protege5,Naturally Aspirated,No
+mazda,Mazda,rx_7,RX-7,Twin-Turbo,No
+mazda,Mazda,rx_8,RX-8,Naturally Aspirated,No
+mazda,Mazda,tribute,Tribute,Naturally Aspirated,No
+mazda,Mazda,tribute_hybrid,Tribute Hybrid,Naturally Aspirated,No
+mazda,Mazda,truck,Truck,Naturally Aspirated,No
+mc_laren,McLaren,570_gt,570GT,Twin-Turbo,No
+mc_laren,McLaren,570_s,570S,Twin-Turbo,No
+mc_laren,McLaren,570_s_spider,570S Spider,Twin-Turbo,No
+mc_laren,McLaren,600_lt,600LT,Twin-Turbo,No
+mc_laren,McLaren,600_lt_spider,600LT Spider,Twin-Turbo,No
+mc_laren,McLaren,650_s_coupe,650S Coupe,Twin-Turbo,No
+mc_laren,McLaren,650_s_spider,650S Spider,Twin-Turbo,No
+mc_laren,McLaren,675_lt_coupe,675LT Coupe,Twin-Turbo,No
+mc_laren,McLaren,675_lt_spider,675LT Spider,Twin-Turbo,No
+mc_laren,McLaren,720_s,720S,Twin-Turbo,No
+mc_laren,McLaren,720_s_spider,720S Spider,Twin-Turbo,No
+mc_laren,McLaren,765_lt,765LT,Twin-Turbo,No
+mc_laren,McLaren,765_lt_spider,765LT Spider,Twin-Turbo,No
+mc_laren,McLaren,artura,Artura,Twin-Turbo,No
+mc_laren,McLaren,elva,Elva,Twin-Turbo,No
+mc_laren,McLaren,gt,GT,Twin-Turbo,No
+mc_laren,McLaren,mp_4_12_c,MP4-12C,Twin-Turbo,No
+mc_laren,McLaren,mp_4_12_c_spider,MP4-12C Spider,Twin-Turbo,No
+mc_laren,McLaren,senna,Senna,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,a_class,A-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,amg_gt,AMG GT,Turbocharged,No
+mercedes_benz,Mercedes-Benz,amg_gt,AMG GT,Twincharged,No
+mercedes_benz,Mercedes-Benz,amg_gt,AMG GT,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,b_class_electric_drive,B-Class Electric Drive,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,c_class,C-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,c_class,C-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,c_class,C-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,c_class,C-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,c_36_amg,C36 AMG,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,c_43_amg,C43 AMG,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,cl_class,CL-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,cl_class,CL-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,cl_class,CL-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,cla_class,CLA-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,clk_class,CLK-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,cls_class,CLS-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,cls_class,CLS-Class,Twincharged,No
+mercedes_benz,Mercedes-Benz,cls_class,CLS-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,cls_class,CLS-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,cls_class,CLS-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,e_class,E-Class,Twincharged,No
+mercedes_benz,Mercedes-Benz,e_class,E-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,e_class,E-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,e_class,E-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,e_class,E-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,e_class,E-Class,Turbodiesel,No
+mercedes_benz,Mercedes-Benz,e_55_amg,E55 AMG,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,eqb,EQB,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,eqe,EQE,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,eqe_suv,EQE SUV,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,eqs,EQS,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,eqs_suv,EQS SUV,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,e_sprinter,eSprinter,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,g_class,G-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,g_class,G-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,g_class,G-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,gl_class,GL-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,gl_class,GL-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,gl_class,GL-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,gla_class,GLA-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,glb_class,GLB-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,glc_class,GLC-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,glc_class,GLC-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,glc_class_coupe,GLC-Class Coupe,Turbocharged,No
+mercedes_benz,Mercedes-Benz,glc_class_coupe,GLC-Class Coupe,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,gle_class,GLE-Class,Twincharged,No
+mercedes_benz,Mercedes-Benz,gle_class,GLE-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,gle_class,GLE-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,gle_class,GLE-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,gle_class_coupe,GLE-Class Coupe,Twincharged,No
+mercedes_benz,Mercedes-Benz,gle_class_coupe,GLE-Class Coupe,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,glk_class,GLK-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,glk_class,GLK-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,gls_class,GLS-Class,Twincharged,No
+mercedes_benz,Mercedes-Benz,gls_class,GLS-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,gls_class,GLS-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,m_class,M-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,m_class,M-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,m_class,M-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,maybach,Maybach,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,maybach_eqs_suv,Maybach EQS SUV,Electric Motor,Yes
+mercedes_benz,Mercedes-Benz,maybach_gls,Maybach GLS,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,metris,Metris,Turbocharged,No
+mercedes_benz,Mercedes-Benz,ml_55_amg,ML55 AMG,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,r_class,R-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,r_class,R-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,s_class,S-Class,Twincharged,No
+mercedes_benz,Mercedes-Benz,s_class,S-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,s_class,S-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,s_class,S-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,s_class,S-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,s_class,S-Class,Turbodiesel,No
+mercedes_benz,Mercedes-Benz,sl_class,SL-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,sl_class,SL-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,sl_class,SL-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,sl_class,SL-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,slc_class,SLC-Class,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,slc_class,SLC-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,slk_class,SLK-Class,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,slk_class,SLK-Class,Turbocharged,No
+mercedes_benz,Mercedes-Benz,slk_class,SLK-Class,Supercharged,No
+mercedes_benz,Mercedes-Benz,slr_mc_laren,SLR McLaren,Supercharged,No
+mercedes_benz,Mercedes-Benz,sls_amg,SLS AMG,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,sls_amg_gt,SLS AMG GT,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,sls_amg_gt_final_edition,SLS AMG GT Final Edition,Naturally Aspirated,No
+mercedes_benz,Mercedes-Benz,sprinter,Sprinter,Turbocharged,No
+mercedes_benz,Mercedes-Benz,sprinter,Sprinter,Twin-Turbo,No
+mercedes_benz,Mercedes-Benz,sprinter_worker,Sprinter Worker,Turbocharged,No
+mercedes_benz,Mercedes-Benz,sprinter_worker,Sprinter Worker,Twin-Turbo,No
+mercury,Mercury,capri,Capri,Naturally Aspirated,No
+mercury,Mercury,capri,Capri,Turbocharged,No
+mercury,Mercury,cougar,Cougar,Naturally Aspirated,No
+mercury,Mercury,cougar,Cougar,Supercharged,No
+mercury,Mercury,grand_marquis,Grand Marquis,Naturally Aspirated,No
+mercury,Mercury,marauder,Marauder,Naturally Aspirated,No
+mercury,Mercury,mariner,Mariner,Naturally Aspirated,No
+mercury,Mercury,mariner_hybrid,Mariner Hybrid,Naturally Aspirated,No
+mercury,Mercury,milan,Milan,Naturally Aspirated,No
+mercury,Mercury,milan_hybrid,Milan Hybrid,Naturally Aspirated,No
+mercury,Mercury,montego,Montego,Naturally Aspirated,No
+mercury,Mercury,monterey,Monterey,Naturally Aspirated,No
+mercury,Mercury,mountaineer,Mountaineer,Naturally Aspirated,No
+mercury,Mercury,mystique,Mystique,Naturally Aspirated,No
+mercury,Mercury,sable,Sable,Naturally Aspirated,No
+mercury,Mercury,topaz,Topaz,Naturally Aspirated,No
+mercury,Mercury,tracer,Tracer,Naturally Aspirated,No
+mercury,Mercury,villager,Villager,Naturally Aspirated,No
+mini,MINI,clubman,Clubman,Turbocharged,No
+mini,MINI,convertible,Convertible,Turbocharged,No
+mini,MINI,cooper,Cooper,Turbocharged,No
+mini,MINI,cooper,Cooper,Naturally Aspirated,No
+mini,MINI,cooper,Cooper,Supercharged,No
+mini,MINI,cooper_clubman,Cooper Clubman,Turbocharged,No
+mini,MINI,cooper_clubman,Cooper Clubman,Naturally Aspirated,No
+mini,MINI,cooper_countryman,Cooper Countryman,Naturally Aspirated,No
+mini,MINI,cooper_countryman,Cooper Countryman,Turbocharged,No
+mini,MINI,cooper_coupe,Cooper Coupe,Naturally Aspirated,No
+mini,MINI,cooper_coupe,Cooper Coupe,Turbocharged,No
+mini,MINI,cooper_paceman,Cooper Paceman,Naturally Aspirated,No
+mini,MINI,cooper_paceman,Cooper Paceman,Turbocharged,No
+mini,MINI,cooper_roadster,Cooper Roadster,Naturally Aspirated,No
+mini,MINI,cooper_roadster,Cooper Roadster,Turbocharged,No
+mini,MINI,countryman,Countryman,Turbocharged,No
+mini,MINI,hardtop_2_door,Hardtop 2 Door,Turbocharged,No
+mini,MINI,hardtop_2_door,Hardtop 2 Door,Electric Motor,Yes
+mini,MINI,hardtop_4_door,Hardtop 4 Door,Turbocharged,No
+mitsubishi,Mitsubishi,3000_gt,3000GT,Naturally Aspirated,No
+mitsubishi,Mitsubishi,3000_gt,3000GT,Twin-Turbo,No
+mitsubishi,Mitsubishi,diamante,Diamante,Naturally Aspirated,No
+mitsubishi,Mitsubishi,eclipse,Eclipse,Naturally Aspirated,No
+mitsubishi,Mitsubishi,eclipse,Eclipse,Turbocharged,No
+mitsubishi,Mitsubishi,eclipse_cross,Eclipse Cross,Turbocharged,No
+mitsubishi,Mitsubishi,eclipse_spyder,Eclipse Spyder,Naturally Aspirated,No
+mitsubishi,Mitsubishi,endeavor,Endeavor,Naturally Aspirated,No
+mitsubishi,Mitsubishi,expo,Expo,Naturally Aspirated,No
+mitsubishi,Mitsubishi,galant,Galant,Naturally Aspirated,No
+mitsubishi,Mitsubishi,i_mi_ev,i-MiEV,Electric Motor,Yes
+mitsubishi,Mitsubishi,lancer,Lancer,Naturally Aspirated,No
+mitsubishi,Mitsubishi,lancer,Lancer,Turbocharged,No
+mitsubishi,Mitsubishi,lancer_evolution,Lancer Evolution,Turbocharged,No
+mitsubishi,Mitsubishi,lancer_sportback,Lancer Sportback,Naturally Aspirated,No
+mitsubishi,Mitsubishi,lancer_sportback,Lancer Sportback,Turbocharged,No
+mitsubishi,Mitsubishi,mighty_max_pickup,Mighty Max Pickup,Naturally Aspirated,No
+mitsubishi,Mitsubishi,mirage,Mirage,Naturally Aspirated,No
+mitsubishi,Mitsubishi,mirage_g_4,Mirage G4,Naturally Aspirated,No
+mitsubishi,Mitsubishi,montero,Montero,Naturally Aspirated,No
+mitsubishi,Mitsubishi,montero_sport,Montero Sport,Naturally Aspirated,No
+mitsubishi,Mitsubishi,outlander,Outlander,Naturally Aspirated,No
+mitsubishi,Mitsubishi,outlander_phev,Outlander PHEV,Naturally Aspirated,No
+mitsubishi,Mitsubishi,outlander_sport,Outlander Sport,Naturally Aspirated,No
+mitsubishi,Mitsubishi,precis,Precis,Naturally Aspirated,No
+mitsubishi,Mitsubishi,raider,Raider,Naturally Aspirated,No
+mitsubishi,Mitsubishi,sigma,Sigma,Naturally Aspirated,No
+mitsubishi,Mitsubishi,vanwagon,Vanwagon,Naturally Aspirated,No
+nissan,Nissan,350_z,350Z,Naturally Aspirated,No
+nissan,Nissan,370_z,370Z,Naturally Aspirated,No
+nissan,Nissan,altima,Altima,Naturally Aspirated,No
+nissan,Nissan,altima,Altima,Turbocharged,No
+nissan,Nissan,altima_hybrid,Altima Hybrid,Naturally Aspirated,No
+nissan,Nissan,ariya,ARIYA,Electric Motor,Yes
+nissan,Nissan,armada,Armada,Naturally Aspirated,No
+nissan,Nissan,cube,Cube,Naturally Aspirated,No
+nissan,Nissan,frontier,Frontier,Naturally Aspirated,No
+nissan,Nissan,frontier,Frontier,Supercharged,No
+nissan,Nissan,gt_r,GT-R,Twin-Turbo,No
+nissan,Nissan,juke,Juke,Turbocharged,No
+nissan,Nissan,kicks,Kicks,Naturally Aspirated,No
+nissan,Nissan,leaf,LEAF,Electric Motor,Yes
+nissan,Nissan,maxima,Maxima,Naturally Aspirated,No
+nissan,Nissan,murano,Murano,Naturally Aspirated,No
+nissan,Nissan,murano,Murano,Supercharged,No
+nissan,Nissan,murano_cross_cabriolet,Murano CrossCabriolet,Naturally Aspirated,No
+nissan,Nissan,nv,NV,Naturally Aspirated,No
+nissan,Nissan,nv_cargo,NV Cargo,Naturally Aspirated,No
+nissan,Nissan,nv_passenger,NV Passenger,Naturally Aspirated,No
+nissan,Nissan,nv_200,NV200,Naturally Aspirated,No
+nissan,Nissan,pathfinder,Pathfinder,Naturally Aspirated,No
+nissan,Nissan,pathfinder,Pathfinder,Supercharged,No
+nissan,Nissan,quest,Quest,Naturally Aspirated,No
+nissan,Nissan,rogue,Rogue,Turbocharged,No
+nissan,Nissan,rogue,Rogue,Naturally Aspirated,No
+nissan,Nissan,rogue_select,Rogue Select,Naturally Aspirated,No
+nissan,Nissan,rogue_sport,Rogue Sport,Naturally Aspirated,No
+nissan,Nissan,sentra,Sentra,Naturally Aspirated,No
+nissan,Nissan,sentra,Sentra,Turbocharged,No
+nissan,Nissan,titan,Titan,Naturally Aspirated,No
+nissan,Nissan,titan_xd,Titan XD,Naturally Aspirated,No
+nissan,Nissan,titan_xd,Titan XD,Turbocharged,No
+nissan,Nissan,versa,Versa,Naturally Aspirated,No
+nissan,Nissan,versa_note,Versa Note,Naturally Aspirated,No
+nissan,Nissan,xterra,Xterra,Naturally Aspirated,No
+nissan,Nissan,xterra,Xterra,Supercharged,No
+nissan,Nissan,z,Z,Twin-Turbo,No
+oldsmobile,Oldsmobile,achieva,Achieva,Naturally Aspirated,No
+oldsmobile,Oldsmobile,alero,Alero,Naturally Aspirated,No
+oldsmobile,Oldsmobile,aurora,Aurora,Naturally Aspirated,No
+oldsmobile,Oldsmobile,bravada,Bravada,Naturally Aspirated,No
+oldsmobile,Oldsmobile,ciera,Ciera,Naturally Aspirated,No
+oldsmobile,Oldsmobile,custom_cruiser,Custom Cruiser,Naturally Aspirated,No
+oldsmobile,Oldsmobile,cutlass,Cutlass,Naturally Aspirated,No
+oldsmobile,Oldsmobile,cutlass_calais,Cutlass Calais,Naturally Aspirated,No
+oldsmobile,Oldsmobile,cutlass_ciera,Cutlass Ciera,Naturally Aspirated,No
+oldsmobile,Oldsmobile,cutlass_supreme,Cutlass Supreme,Naturally Aspirated,No
+oldsmobile,Oldsmobile,intrigue,Intrigue,Naturally Aspirated,No
+oldsmobile,Oldsmobile,lss,LSS,Naturally Aspirated,No
+oldsmobile,Oldsmobile,regency,Regency,Naturally Aspirated,No
+oldsmobile,Oldsmobile,silhouette,Silhouette,Naturally Aspirated,No
+oldsmobile,Oldsmobile,toronado,Toronado,Naturally Aspirated,No
+panoz,Panoz,esperante,Esperante,Naturally Aspirated,No
+panoz,Panoz,esperante,Esperante,Supercharged,No
+plymouth,Plymouth,acclaim,Acclaim,Naturally Aspirated,No
+plymouth,Plymouth,acclaim,Acclaim,Turbocharged,No
+plymouth,Plymouth,breeze,Breeze,Naturally Aspirated,No
+plymouth,Plymouth,colt,Colt,Naturally Aspirated,No
+plymouth,Plymouth,grand_voyager,Grand Voyager,Naturally Aspirated,No
+plymouth,Plymouth,horizon,Horizon,Naturally Aspirated,No
+plymouth,Plymouth,laser,Laser,Naturally Aspirated,No
+plymouth,Plymouth,laser,Laser,Turbocharged,No
+plymouth,Plymouth,neon,Neon,Naturally Aspirated,No
+plymouth,Plymouth,prowler,Prowler,Naturally Aspirated,No
+plymouth,Plymouth,sundance,Sundance,Naturally Aspirated,No
+plymouth,Plymouth,sundance,Sundance,Turbocharged,No
+plymouth,Plymouth,voyager,Voyager,Naturally Aspirated,No
+plymouth,Plymouth,voyager,Voyager,Turbocharged,No
+polestar,Polestar,1,1,Twincharged,No
+polestar,Polestar,2,2,Electric Motor,Yes
+pontiac,Pontiac,6000,6000,Naturally Aspirated,No
+pontiac,Pontiac,aztek,Aztek,Naturally Aspirated,No
+pontiac,Pontiac,bonneville,Bonneville,Naturally Aspirated,No
+pontiac,Pontiac,bonneville,Bonneville,Supercharged,No
+pontiac,Pontiac,firebird,Firebird,Naturally Aspirated,No
+pontiac,Pontiac,g_3,G3,Naturally Aspirated,No
+pontiac,Pontiac,g_5,G5,Naturally Aspirated,No
+pontiac,Pontiac,g_6,G6,Naturally Aspirated,No
+pontiac,Pontiac,g_8,G8,Naturally Aspirated,No
+pontiac,Pontiac,grand_am,Grand Am,Naturally Aspirated,No
+pontiac,Pontiac,grand_prix,Grand Prix,Naturally Aspirated,No
+pontiac,Pontiac,grand_prix,Grand Prix,Supercharged,No
+pontiac,Pontiac,grand_prix,Grand Prix,Turbocharged,No
+pontiac,Pontiac,gto,GTO,Naturally Aspirated,No
+pontiac,Pontiac,montana,Montana,Naturally Aspirated,No
+pontiac,Pontiac,montana_sv_6,Montana SV6,Naturally Aspirated,No
+pontiac,Pontiac,solstice,Solstice,Naturally Aspirated,No
+pontiac,Pontiac,solstice,Solstice,Turbocharged,No
+pontiac,Pontiac,sunbird,Sunbird,Naturally Aspirated,No
+pontiac,Pontiac,sunbird,Sunbird,Turbocharged,No
+pontiac,Pontiac,sunfire,Sunfire,Naturally Aspirated,No
+pontiac,Pontiac,torrent,Torrent,Naturally Aspirated,No
+pontiac,Pontiac,trans_sport,Trans Sport,Naturally Aspirated,No
+pontiac,Pontiac,vibe,Vibe,Naturally Aspirated,No
+porsche,Porsche,718_boxster,718 Boxster,Turbocharged,No
+porsche,Porsche,718_boxster,718 Boxster,Naturally Aspirated,No
+porsche,Porsche,718_cayman,718 Cayman,Turbocharged,No
+porsche,Porsche,718_cayman,718 Cayman,Naturally Aspirated,No
+porsche,Porsche,911,911,Twin-Turbo,No
+porsche,Porsche,911,911,Naturally Aspirated,No
+porsche,Porsche,911,911,Turbocharged,No
+porsche,Porsche,918_spyder,918 Spyder,Naturally Aspirated,No
+porsche,Porsche,928,928,Naturally Aspirated,No
+porsche,Porsche,944,944,Naturally Aspirated,No
+porsche,Porsche,968,968,Naturally Aspirated,No
+porsche,Porsche,boxster,Boxster,Naturally Aspirated,No
+porsche,Porsche,carrera_gt,Carrera GT,Naturally Aspirated,No
+porsche,Porsche,cayenne,Cayenne,Turbocharged,No
+porsche,Porsche,cayenne,Cayenne,Twin-Turbo,No
+porsche,Porsche,cayenne,Cayenne,Naturally Aspirated,No
+porsche,Porsche,cayenne,Cayenne,Supercharged,No
+porsche,Porsche,cayenne_coupe,Cayenne Coupe,Turbocharged,No
+porsche,Porsche,cayenne_coupe,Cayenne Coupe,Twin-Turbo,No
+porsche,Porsche,cayman,Cayman,Naturally Aspirated,No
+porsche,Porsche,cayman_s,Cayman S,Naturally Aspirated,No
+porsche,Porsche,macan,Macan,Turbocharged,No
+porsche,Porsche,macan,Macan,Twin-Turbo,No
+porsche,Porsche,panamera,Panamera,Twin-Turbo,No
+porsche,Porsche,panamera,Panamera,Turbocharged,No
+porsche,Porsche,panamera,Panamera,Naturally Aspirated,No
+porsche,Porsche,panamera,Panamera,Supercharged,No
+porsche,Porsche,taycan,Taycan,Electric Motor,Yes
+ram,Ram,1500,1500,Naturally Aspirated,No
+ram,Ram,1500,1500,Supercharged,No
+ram,Ram,1500,1500,Turbocharged,No
+ram,Ram,1500_classic,1500 Classic,Naturally Aspirated,No
+ram,Ram,1500_classic,1500 Classic,Turbocharged,No
+ram,Ram,2500,2500,Naturally Aspirated,No
+ram,Ram,2500,2500,Turbocharged,No
+ram,Ram,3500,3500,Naturally Aspirated,No
+ram,Ram,3500,3500,Turbocharged,No
+ram,Ram,c_v_cargo_van,C/V Cargo Van,Naturally Aspirated,No
+ram,Ram,c_v_tradesman,C/V Tradesman,Naturally Aspirated,No
+ram,Ram,dakota,Dakota,Naturally Aspirated,No
+ram,Ram,promaster_cargo_van,Promaster Cargo Van,Naturally Aspirated,No
+ram,Ram,promaster_city,Promaster City,Naturally Aspirated,No
+ram,Ram,promaster_window_van,Promaster Window Van,Naturally Aspirated,No
+rivian,Rivian,r_1_s,R1S,Electric Motor,Yes
+rivian,Rivian,r_1_t,R1T,Electric Motor,Yes
+rolls_royce,Rolls-Royce,corniche,Corniche,Turbocharged,No
+rolls_royce,Rolls-Royce,cullinan,Cullinan,Twin-Turbo,No
+rolls_royce,Rolls-Royce,dawn,Dawn,Twin-Turbo,No
+rolls_royce,Rolls-Royce,ghost,Ghost,Twin-Turbo,No
+rolls_royce,Rolls-Royce,ghost_series_ii,Ghost Series II,Twin-Turbo,No
+rolls_royce,Rolls-Royce,park_ward,Park Ward,Naturally Aspirated,No
+rolls_royce,Rolls-Royce,phantom,Phantom,Twin-Turbo,No
+rolls_royce,Rolls-Royce,phantom,Phantom,Naturally Aspirated,No
+rolls_royce,Rolls-Royce,phantom_coupe,Phantom Coupe,Naturally Aspirated,No
+rolls_royce,Rolls-Royce,phantom_drophead_coupe,Phantom Drophead Coupe,Naturally Aspirated,No
+rolls_royce,Rolls-Royce,silver_seraph,Silver Seraph,Naturally Aspirated,No
+rolls_royce,Rolls-Royce,wraith,Wraith,Twin-Turbo,No
+saab,Saab,9_2_x,9-2X,Naturally Aspirated,No
+saab,Saab,9_2_x,9-2X,Turbocharged,No
+saab,Saab,9_3,9-3,Turbocharged,No
+saab,Saab,9_3_griffin,9-3 Griffin,Turbocharged,No
+saab,Saab,9_4_x,9-4X,Naturally Aspirated,No
+saab,Saab,9_4_x,9-4X,Turbocharged,No
+saab,Saab,9_5,9-5,Turbocharged,No
+saab,Saab,9_7_x,9-7X,Naturally Aspirated,No
+saab,Saab,900,900,Turbocharged,No
+saab,Saab,900,900,Naturally Aspirated,No
+saab,Saab,9000,9000,Turbocharged,No
+saab,Saab,9000,9000,Naturally Aspirated,No
+saturn,Saturn,astra,Astra,Naturally Aspirated,No
+saturn,Saturn,aura,Aura,Naturally Aspirated,No
+saturn,Saturn,aura_hybrid,Aura Hybrid,Naturally Aspirated,No
+saturn,Saturn,ion,ION,Naturally Aspirated,No
+saturn,Saturn,ion,ION,Supercharged,No
+saturn,Saturn,l_series,L-Series,Naturally Aspirated,No
+saturn,Saturn,l_300,L300,Naturally Aspirated,No
+saturn,Saturn,outlook,Outlook,Naturally Aspirated,No
+saturn,Saturn,relay,Relay,Naturally Aspirated,No
+saturn,Saturn,s_series,S-Series,Naturally Aspirated,No
+saturn,Saturn,sky,Sky,Naturally Aspirated,No
+saturn,Saturn,sky,Sky,Turbocharged,No
+saturn,Saturn,vue,VUE,Naturally Aspirated,No
+saturn,Saturn,vue_hybrid,VUE Hybrid,Naturally Aspirated,No
+scion,Scion,fr_s,FR-S,Naturally Aspirated,No
+scion,Scion,i_a,iA,Naturally Aspirated,No
+scion,Scion,i_m,iM,Naturally Aspirated,No
+scion,Scion,i_q,iQ,Naturally Aspirated,No
+scion,Scion,t_c,tC,Naturally Aspirated,No
+scion,Scion,x_a,xA,Naturally Aspirated,No
+scion,Scion,x_b,xB,Naturally Aspirated,No
+scion,Scion,x_d,xD,Naturally Aspirated,No
+smart,smart,eq_fortwo,EQ fortwo,Electric Motor,Yes
+smart,smart,fortwo,fortwo,Electric Motor,Yes
+smart,smart,fortwo,fortwo,Turbocharged,No
+smart,smart,fortwo,fortwo,Naturally Aspirated,No
+spyker,Spyker,c_8,C8,Naturally Aspirated,No
+subaru,Subaru,ascent,Ascent,Turbocharged,No
+subaru,Subaru,b_9_tribeca,B9 Tribeca,Naturally Aspirated,No
+subaru,Subaru,baja,Baja,Naturally Aspirated,No
+subaru,Subaru,baja,Baja,Turbocharged,No
+subaru,Subaru,brz,BRZ,Naturally Aspirated,No
+subaru,Subaru,crosstrek,Crosstrek,Naturally Aspirated,No
+subaru,Subaru,forester,Forester,Naturally Aspirated,No
+subaru,Subaru,forester,Forester,Turbocharged,No
+subaru,Subaru,impreza,Impreza,Naturally Aspirated,No
+subaru,Subaru,impreza,Impreza,Turbocharged,No
+subaru,Subaru,impreza_wrx,Impreza WRX,Turbocharged,No
+subaru,Subaru,justy,Justy,Naturally Aspirated,No
+subaru,Subaru,legacy,Legacy,Naturally Aspirated,No
+subaru,Subaru,legacy,Legacy,Turbocharged,No
+subaru,Subaru,loyale,Loyale,Naturally Aspirated,No
+subaru,Subaru,loyale,Loyale,Turbocharged,No
+subaru,Subaru,outback,Outback,Naturally Aspirated,No
+subaru,Subaru,outback,Outback,Turbocharged,No
+subaru,Subaru,solterra,Solterra,Electric Motor,Yes
+subaru,Subaru,sti_s_209,STI S209,Turbocharged,No
+subaru,Subaru,svx,SVX,Naturally Aspirated,No
+subaru,Subaru,tribeca,Tribeca,Naturally Aspirated,No
+subaru,Subaru,wrx,WRX,Turbocharged,No
+subaru,Subaru,xt,XT,Naturally Aspirated,No
+subaru,Subaru,xv_crosstrek,XV Crosstrek,Naturally Aspirated,No
+suzuki,Suzuki,aerio,Aerio,Naturally Aspirated,No
+suzuki,Suzuki,equator,Equator,Naturally Aspirated,No
+suzuki,Suzuki,esteem,Esteem,Naturally Aspirated,No
+suzuki,Suzuki,forenza,Forenza,Naturally Aspirated,No
+suzuki,Suzuki,grand_vitara,Grand Vitara,Naturally Aspirated,No
+suzuki,Suzuki,kizashi,Kizashi,Naturally Aspirated,No
+suzuki,Suzuki,reno,Reno,Naturally Aspirated,No
+suzuki,Suzuki,samurai,Samurai,Naturally Aspirated,No
+suzuki,Suzuki,sidekick,Sidekick,Naturally Aspirated,No
+suzuki,Suzuki,swift,Swift,Naturally Aspirated,No
+suzuki,Suzuki,sx_4,SX4,Naturally Aspirated,No
+suzuki,Suzuki,verona,Verona,Naturally Aspirated,No
+suzuki,Suzuki,vitara,Vitara,Naturally Aspirated,No
+suzuki,Suzuki,x_90,X-90,Naturally Aspirated,No
+suzuki,Suzuki,xl_7,XL-7,Naturally Aspirated,No
+suzuki,Suzuki,xl_7,XL7,Naturally Aspirated,No
+tesla,Tesla,model_3,Model 3,Electric Motor,Yes
+tesla,Tesla,model_s,Model S,Electric Motor,Yes
+tesla,Tesla,model_x,Model X,Electric Motor,Yes
+tesla,Tesla,model_y,Model Y,Electric Motor,Yes
+tesla,Tesla,roadster,Roadster,Electric Motor,Yes
+toyota,Toyota,4_runner,4Runner,Naturally Aspirated,No
+toyota,Toyota,86,86,Naturally Aspirated,No
+toyota,Toyota,avalon,Avalon,Naturally Aspirated,No
+toyota,Toyota,avalon_hybrid,Avalon Hybrid,Naturally Aspirated,No
+toyota,Toyota,b_z_4_x,bZ4X,Electric Motor,Yes
+toyota,Toyota,c_hr,C-HR,Naturally Aspirated,No
+toyota,Toyota,camry,Camry,Naturally Aspirated,No
+toyota,Toyota,camry_hybrid,Camry Hybrid,Naturally Aspirated,No
+toyota,Toyota,camry_solara,Camry Solara,Naturally Aspirated,No
+toyota,Toyota,celica,Celica,Naturally Aspirated,No
+toyota,Toyota,celica,Celica,Turbocharged,No
+toyota,Toyota,corolla,Corolla,Naturally Aspirated,No
+toyota,Toyota,corolla_cross,Corolla Cross,Naturally Aspirated,No
+toyota,Toyota,corolla_cross_hybrid,Corolla Cross Hybrid,Naturally Aspirated,No
+toyota,Toyota,corolla_hatchback,Corolla Hatchback,Naturally Aspirated,No
+toyota,Toyota,corolla_hybrid,Corolla Hybrid,Naturally Aspirated,No
+toyota,Toyota,corolla_i_m,Corolla iM,Naturally Aspirated,No
+toyota,Toyota,cressida,Cressida,Naturally Aspirated,No
+toyota,Toyota,crown,Crown,Naturally Aspirated,No
+toyota,Toyota,crown,Crown,Turbocharged,No
+toyota,Toyota,echo,ECHO,Naturally Aspirated,No
+toyota,Toyota,fj_cruiser,FJ Cruiser,Naturally Aspirated,No
+toyota,Toyota,gr_corolla,GR Corolla,Turbocharged,No
+toyota,Toyota,gr_supra,GR Supra,Turbocharged,No
+toyota,Toyota,gr_86,GR86,Naturally Aspirated,No
+toyota,Toyota,grand_highlander,Grand Highlander,Turbocharged,No
+toyota,Toyota,grand_highlander_hybrid,Grand Highlander Hybrid,Naturally Aspirated,No
+toyota,Toyota,grand_highlander_hybrid,Grand Highlander Hybrid,Turbocharged,No
+toyota,Toyota,highlander,Highlander,Turbocharged,No
+toyota,Toyota,highlander,Highlander,Naturally Aspirated,No
+toyota,Toyota,highlander_hybrid,Highlander Hybrid,Naturally Aspirated,No
+toyota,Toyota,land_cruiser,Land Cruiser,Naturally Aspirated,No
+toyota,Toyota,matrix,Matrix,Naturally Aspirated,No
+toyota,Toyota,mirai,Mirai,Naturally Aspirated,No
+toyota,Toyota,mr_2,MR2,Naturally Aspirated,No
+toyota,Toyota,mr_2,MR2,Turbocharged,No
+toyota,Toyota,mr_2_spyder,MR2 Spyder,Naturally Aspirated,No
+toyota,Toyota,paseo,Paseo,Naturally Aspirated,No
+toyota,Toyota,pickup,Pickup,Naturally Aspirated,No
+toyota,Toyota,previa,Previa,Naturally Aspirated,No
+toyota,Toyota,previa,Previa,Supercharged,No
+toyota,Toyota,prius,Prius,Naturally Aspirated,No
+toyota,Toyota,prius_c,Prius c,Naturally Aspirated,No
+toyota,Toyota,prius_plug_in,Prius Plug-in,Naturally Aspirated,No
+toyota,Toyota,prius_prime,Prius Prime,Naturally Aspirated,No
+toyota,Toyota,prius_v,Prius v,Naturally Aspirated,No
+toyota,Toyota,rav_4,RAV4,Naturally Aspirated,No
+toyota,Toyota,rav_4_ev,RAV4 EV,Electric Motor,Yes
+toyota,Toyota,rav_4_hybrid,RAV4 Hybrid,Naturally Aspirated,No
+toyota,Toyota,rav_4_prime,RAV4 Prime,Naturally Aspirated,No
+toyota,Toyota,sequoia,Sequoia,Twin-Turbo,No
+toyota,Toyota,sequoia,Sequoia,Naturally Aspirated,No
+toyota,Toyota,sienna,Sienna,Naturally Aspirated,No
+toyota,Toyota,supra,Supra,Naturally Aspirated,No
+toyota,Toyota,supra,Supra,Twin-Turbo,No
+toyota,Toyota,supra,Supra,Turbocharged,No
+toyota,Toyota,t_100,T100,Naturally Aspirated,No
+toyota,Toyota,tacoma,Tacoma,Naturally Aspirated,No
+toyota,Toyota,tercel,Tercel,Naturally Aspirated,No
+toyota,Toyota,tundra,Tundra,Twin-Turbo,No
+toyota,Toyota,tundra,Tundra,Naturally Aspirated,No
+toyota,Toyota,venza,Venza,Naturally Aspirated,No
+toyota,Toyota,yaris,Yaris,Naturally Aspirated,No
+toyota,Toyota,yaris_hatchback,Yaris Hatchback,Naturally Aspirated,No
+toyota,Toyota,yaris_i_a,Yaris iA,Naturally Aspirated,No
+vin_fast,VinFast,vf_8,VF 8,Electric Motor,Yes
+volkswagen,Volkswagen,arteon,Arteon,Turbocharged,No
+volkswagen,Volkswagen,atlas,Atlas,Turbocharged,No
+volkswagen,Volkswagen,atlas,Atlas,Naturally Aspirated,No
+volkswagen,Volkswagen,atlas_cross_sport,Atlas Cross Sport,Turbocharged,No
+volkswagen,Volkswagen,atlas_cross_sport,Atlas Cross Sport,Naturally Aspirated,No
+volkswagen,Volkswagen,beetle,Beetle,Turbocharged,No
+volkswagen,Volkswagen,beetle,Beetle,Naturally Aspirated,No
+volkswagen,Volkswagen,beetle_convertible,Beetle Convertible,Turbocharged,No
+volkswagen,Volkswagen,beetle_convertible,Beetle Convertible,Naturally Aspirated,No
+volkswagen,Volkswagen,cabrio,Cabrio,Naturally Aspirated,No
+volkswagen,Volkswagen,cabriolet,Cabriolet,Naturally Aspirated,No
+volkswagen,Volkswagen,cc,CC,Turbocharged,No
+volkswagen,Volkswagen,cc,CC,Naturally Aspirated,No
+volkswagen,Volkswagen,corrado,Corrado,Naturally Aspirated,No
+volkswagen,Volkswagen,corrado,Corrado,Supercharged,No
+volkswagen,Volkswagen,e_golf,e-Golf,Electric Motor,Yes
+volkswagen,Volkswagen,eos,Eos,Turbocharged,No
+volkswagen,Volkswagen,eos,Eos,Naturally Aspirated,No
+volkswagen,Volkswagen,euro_van,EuroVan,Naturally Aspirated,No
+volkswagen,Volkswagen,fox,Fox,Naturally Aspirated,No
+volkswagen,Volkswagen,gli,GLI,Turbocharged,No
+volkswagen,Volkswagen,golf,Golf,Turbocharged,No
+volkswagen,Volkswagen,golf,Golf,Naturally Aspirated,No
+volkswagen,Volkswagen,golf,Golf,Turbodiesel,No
+volkswagen,Volkswagen,golf_alltrack,Golf Alltrack,Turbocharged,No
+volkswagen,Volkswagen,golf_gti,Golf GTI,Turbocharged,No
+volkswagen,Volkswagen,golf_r,Golf R,Turbocharged,No
+volkswagen,Volkswagen,golf_sport_wagen,Golf SportWagen,Turbocharged,No
+volkswagen,Volkswagen,gti,GTI,Turbocharged,No
+volkswagen,Volkswagen,gti,GTI,Naturally Aspirated,No
+volkswagen,Volkswagen,id_4,ID.4,Electric Motor,Yes
+volkswagen,Volkswagen,jetta,Jetta,Turbocharged,No
+volkswagen,Volkswagen,jetta,Jetta,Naturally Aspirated,No
+volkswagen,Volkswagen,jetta,Jetta,Turbodiesel,No
+volkswagen,Volkswagen,jetta_gli,Jetta GLI,Turbocharged,No
+volkswagen,Volkswagen,jetta_hybrid,Jetta Hybrid,Turbocharged,No
+volkswagen,Volkswagen,jetta_sport_wagen,Jetta SportWagen,Naturally Aspirated,No
+volkswagen,Volkswagen,jetta_sport_wagen,Jetta SportWagen,Turbocharged,No
+volkswagen,Volkswagen,new_beetle,New Beetle,Naturally Aspirated,No
+volkswagen,Volkswagen,new_beetle,New Beetle,Turbocharged,No
+volkswagen,Volkswagen,new_beetle,New Beetle,Turbodiesel,No
+volkswagen,Volkswagen,passat,Passat,Turbocharged,No
+volkswagen,Volkswagen,passat,Passat,Naturally Aspirated,No
+volkswagen,Volkswagen,passat,Passat,Turbodiesel,No
+volkswagen,Volkswagen,phaeton,Phaeton,Naturally Aspirated,No
+volkswagen,Volkswagen,r_32,R32,Naturally Aspirated,No
+volkswagen,Volkswagen,rabbit,Rabbit,Naturally Aspirated,No
+volkswagen,Volkswagen,routan,Routan,Naturally Aspirated,No
+volkswagen,Volkswagen,taos,Taos,Turbocharged,No
+volkswagen,Volkswagen,tiguan,Tiguan,Turbocharged,No
+volkswagen,Volkswagen,tiguan_limited,Tiguan Limited,Turbocharged,No
+volkswagen,Volkswagen,touareg,Touareg,Naturally Aspirated,No
+volkswagen,Volkswagen,touareg,Touareg,Turbocharged,No
+volkswagen,Volkswagen,touareg,Touareg,Supercharged,No
+volkswagen,Volkswagen,touareg_2,Touareg 2,Turbocharged,No
+volkswagen,Volkswagen,touareg_2,Touareg 2,Naturally Aspirated,No
+volkswagen,Volkswagen,vanagon,Vanagon,Naturally Aspirated,No
+volvo,Volvo,240,240,Naturally Aspirated,No
+volvo,Volvo,740,740,Naturally Aspirated,No
+volvo,Volvo,740,740,Turbocharged,No
+volvo,Volvo,760,760,Naturally Aspirated,No
+volvo,Volvo,760,760,Turbocharged,No
+volvo,Volvo,780,780,Naturally Aspirated,No
+volvo,Volvo,780,780,Turbocharged,No
+volvo,Volvo,850,850,Naturally Aspirated,No
+volvo,Volvo,850,850,Turbocharged,No
+volvo,Volvo,940,940,Naturally Aspirated,No
+volvo,Volvo,940,940,Turbocharged,No
+volvo,Volvo,960,960,Naturally Aspirated,No
+volvo,Volvo,c_30,C30,Turbocharged,No
+volvo,Volvo,c_40_recharge,C40 Recharge,Electric Motor,Yes
+volvo,Volvo,c_70,C70,Turbocharged,No
+volvo,Volvo,coupe,Coupe,Turbocharged,No
+volvo,Volvo,s_40,S40,Turbocharged,No
+volvo,Volvo,s_40,S40,Naturally Aspirated,No
+volvo,Volvo,s_60,S60,Turbocharged,No
+volvo,Volvo,s_60,S60,Twincharged,No
+volvo,Volvo,s_60,S60,Naturally Aspirated,No
+volvo,Volvo,s_60_cross_country,S60 Cross Country,Turbocharged,No
+volvo,Volvo,s_70,S70,Turbocharged,No
+volvo,Volvo,s_70,S70,Naturally Aspirated,No
+volvo,Volvo,s_80,S80,Turbocharged,No
+volvo,Volvo,s_80,S80,Naturally Aspirated,No
+volvo,Volvo,s_80,S80,Twin-Turbo,No
+volvo,Volvo,s_90,S90,Twincharged,No
+volvo,Volvo,s_90,S90,Turbocharged,No
+volvo,Volvo,s_90,S90,Naturally Aspirated,No
+volvo,Volvo,v_40,V40,Turbocharged,No
+volvo,Volvo,v_50,V50,Turbocharged,No
+volvo,Volvo,v_50,V50,Naturally Aspirated,No
+volvo,Volvo,v_60,V60,Turbocharged,No
+volvo,Volvo,v_60,V60,Twincharged,No
+volvo,Volvo,v_60_cross_country,V60 Cross Country,Turbocharged,No
+volvo,Volvo,v_70,V70,Naturally Aspirated,No
+volvo,Volvo,v_70,V70,Turbocharged,No
+volvo,Volvo,v_90,V90,Turbocharged,No
+volvo,Volvo,v_90,V90,Twincharged,No
+volvo,Volvo,v_90_cross_country,V90 Cross Country,Twincharged,No
+volvo,Volvo,v_90_cross_country,V90 Cross Country,Turbocharged,No
+volvo,Volvo,xc,XC,Turbocharged,No
+volvo,Volvo,xc_40,XC40,Turbocharged,No
+volvo,Volvo,xc_40_recharge,XC40 Recharge,Electric Motor,Yes
+volvo,Volvo,xc_60,XC60,Turbocharged,No
+volvo,Volvo,xc_60,XC60,Twincharged,No
+volvo,Volvo,xc_60,XC60,Naturally Aspirated,No
+volvo,Volvo,xc_70,XC70,Turbocharged,No
+volvo,Volvo,xc_70,XC70,Naturally Aspirated,No
+volvo,Volvo,xc_90,XC90,Turbocharged,No
+volvo,Volvo,xc_90,XC90,Twincharged,No
+volvo,Volvo,xc_90,XC90,Naturally Aspirated,No
+volvo,Volvo,xc_90,XC90,Twin-Turbo,No

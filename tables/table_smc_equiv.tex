@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\caption{SMC Equivalencies of 5\% Enrollment Increase}
+\setlength{\tabcolsep}{2.5em}
+
+\newsavebox{\myTableBoxA}
+\begin{lrbox}{\myTableBoxA}
+\begin{tabular}{lr}
+\toprule
+\textbf{Attribute} & \textbf{Equivalency Value} \\
+\midrule
+Enrollment Cash (\$) & 64.7 \\
+Monthly Cash (\$) & 3.2 \\
+Override Days & 2.0 \\
+Minimum Threshold (\%) & 54.8 \\
+Guaranteed Threshold (\%) & 5.5 \\
+\bottomrule
+\end{tabular}
+\end{lrbox}
+
+\usebox{\myTableBoxA}
+
+\vspace{0.5em}
+\begin{minipage}{\wd\myTableBoxA}
+\footnotesize
+\begin{enumerate}[leftmargin=2em]  % Control indentation here
+\item Predictions are based on the estimated MNL model
+\item Equivalency values are based on the attribute changes needed to achieve a 5\% increase in enrollment from the baseline rate of 50\%.
+\end{enumerate}
+\end{minipage}
+\label{table_smc_equiv}
+\end{table}

@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\caption{V2G Equivalencies of 5\% Enrollment Increase}
+\setlength{\tabcolsep}{2.5em}
+
+\newsavebox{\myTableBoxB}
+\begin{lrbox}{\myTableBoxB}
+\begin{tabular}{lr}
+\toprule
+\textbf{Attribute} & \textbf{Equivalency Value} \\
+\midrule
+Enrollment Cash (\$) & 45.5 \\
+Occurrence Cash (\$) & 2.3 \\
+Monthly Occurrence & 1.5 \\
+Lower Bound (\%) & 8.5 \\
+Guaranteed Threshold (\%) & 7.2 \\
+\bottomrule
+\end{tabular}
+\end{lrbox}
+
+\usebox{\myTableBoxB}
+
+\vspace{0.5em}
+\begin{minipage}{\wd\myTableBoxB}
+\footnotesize
+\begin{enumerate}[leftmargin=2em]  % Control indentation here
+\item Predictions are based on the estimated MNL model
+\item Equivalency values are based on the attribute changes needed to achieve a 5\% increase in enrollment from the baseline rate of 45\%.
+\end{enumerate}
+\end{minipage}
+\label{table_v2g_equiv}
+\end{table}
