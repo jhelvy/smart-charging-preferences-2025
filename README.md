@@ -23,7 +23,7 @@ related [poster](https://sc.pingfanhu.com/poster.pdf) and
 
 **Authors**:
 
-| name | orcID |
+| Name | ORCID |
 |----|----|
 | Pingfan Hu | [0009-0001-4877-4844](https://orcid.org/0009-0001-4877-4844) |
 | Brian Tarroja, Ph.D., P.E. | [0000-0002-7736-8642](https://orcid.org/0000-0002-7736-8642) |
