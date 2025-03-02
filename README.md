@@ -21,7 +21,17 @@ simulator](https://gwuvehicle.shinyapps.io/enrollment_simulator/), and
 related [poster](https://sc.pingfanhu.com/poster.pdf) and
 [slides](https://slides.pingfanhu.com/slides/2024_ieee_vppc/).
 
-**Authors**: John Paul Helveston, Gang He, & Michael R. Davidson.
+**Authors**:
+
+| name | orcID |
+|----|----|
+| Pingfan Hu | [0009-0001-4877-4844](https://orcid.org/0009-0001-4877-4844) |
+| Brian Tarroja, Ph.D., P.E. | [0000-0002-7736-8642](https://orcid.org/0000-0002-7736-8642) |
+| Matthew Dean, Ph.D. | [0000-0002-0346-4316](https://orcid.org/0000-0002-0346-4316) |
+| Kate Forrest, Ph.D. | [0000-0001-6375-1299](https://orcid.org/0000-0001-6375-1299) |
+| Eric Hittinger, Ph.D. | [0000-0001-8439-4016](https://orcid.org/0000-0001-8439-4016) |
+| Alan Jenn, Ph.D. | [0000-0003-4232-0697](https://orcid.org/0000-0003-4232-0697) |
+| John Paul Helveston, Ph.D. | [0000-0002-2657-9191](https://orcid.org/0000-0002-2657-9191) |
 
 **DOI**: DOI here…
 
