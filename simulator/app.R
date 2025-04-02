@@ -340,16 +340,16 @@ server <- function(input, output, session) {
     
     # SMC Reset handler
     observeEvent(input$smc_reset, {
-        updateNumericInput(session, "smc_enrollment_cash", value = 50)
-        updateNumericInput(session, "smc_monthly_cash", value = 2)
-        updateNumericInput(session, "smc_override_days", value = 1)
+        updateNumericInput(session, "smc_enrollment_cash", value = 0)
+        updateNumericInput(session, "smc_monthly_cash", value = 0)
+        updateNumericInput(session, "smc_override_days", value = 0)
         updateSliderInput(session, "smc_minimum_threshold", value = 20)
         updateSliderInput(session, "smc_guaranteed_threshold", value = 60)
     })
     
     # V2G Reset handler
     observeEvent(input$v2g_reset, {
-        updateNumericInput(session, "v2g_enrollment_cash", value = 50)
+        updateNumericInput(session, "v2g_enrollment_cash", value = 0)
         updateNumericInput(session, "v2g_occurrence_cash", value = 2)
         updateNumericInput(session, "v2g_monthly_occurrence", value = 1)
         updateSliderInput(session, "v2g_lower_bound", value = 20)
