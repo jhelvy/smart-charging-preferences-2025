@@ -32,17 +32,20 @@ for (i in 0:(total_pages - 1)) {
 
     cat("Scraping:", url, "\n")
 
-    tryCatch({
-        page_data <- get_page_table(url)
-        if (length(page_data) >= 1) {
-            car_data[[length(car_data) + 1]] <- page_data[[1]] %>%
-                clean_names()
-        } else {
-            cat("No table found on page", i + 1, "\n")
+    tryCatch(
+        {
+            page_data <- get_page_table(url)
+            if (length(page_data) >= 1) {
+                car_data[[length(car_data) + 1]] <- page_data[[1]] %>%
+                    clean_names()
+            } else {
+                cat("No table found on page", i + 1, "\n")
+            }
+        },
+        error = function(e) {
+            cat("Error scraping page", i + 1, ": ", e$message, "\n")
         }
-    }, error = function(e) {
-        cat("Error scraping page", i + 1, ": ", e$message, "\n")
-    })
+    )
 }
 
 # Combine all tables into df
@@ -68,15 +71,15 @@ car_df <- bind_rows(car_data) %>%
     select(make_snake, make, model_snake, model, everything())
 
 # Show only makes and models
-car_model_df <- car_df %>% 
-    select(make_snake, make, model_snake, model) %>% 
-    distinct() %>% 
+car_model_df <- car_df %>%
+    select(make_snake, make, model_snake, model) %>%
+    distinct() %>%
     arrange(tolower(make), tolower(model))
 
 # Show only distinctive makes
-car_make_df <- car_df %>% 
-    select(make_snake, make) %>% 
-    distinct() %>% 
+car_make_df <- car_df %>%
+    select(make_snake, make) %>%
+    distinct() %>%
     arrange(tolower(make))
 
 ##########################################
@@ -85,6 +88,6 @@ car_make_df <- car_df %>%
 ##########################################
 
 # Write into csv
-# write_csv(car_df, here("project", "data", "cars.csv"))
-# write_csv(car_make_df, here("project", "data", "car_makes.csv"))
-# write_csv(car_model_df, here("project", "data", "car_models.csv"))
+# write_csv(car_df, here("data", "cars.csv"))
+# write_csv(car_make_df, here("data", "car_makes.csv"))
+# write_csv(car_model_df, here("data", "car_models.csv"))
