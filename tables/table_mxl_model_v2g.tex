@@ -1,0 +1,30 @@
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\caption{MXL V2G Model Coefficients}
+\fontsize{11}{12}\selectfont
+\begin{tabular}{l>{\centering\arraybackslash}p{1.5cm}ccc>{\centering\arraybackslash}p{2cm}c}
+\toprule
+\textbf{Attribute} & \textbf{Coef.} & \textbf{Est.} & \textbf{SE} & \textbf{Level} & \textbf{Unit}\\
+\midrule
+\multirow{-1}{*}{\raggedright\arraybackslash Enrollment Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_1$} & 0.0051 & 0.0003 & 50, 100, 200, 300 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Occurrence Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_2$} & 0.0972 & 0.0045 & 2, 5, 10, 15, 20 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Monthly Occurrence} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_3$} & 0.1595 & 0.0262 & 1, 2, 3, 4 & Times\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Lower Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_4$} & 0.0263 & 0.0036 & 20, 30, 40 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Guaranteed Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_5$} & 0.0368 & 0.0037 & 60, 70, 80 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash No Choice} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_6$} & 2.4283 & 0.1964 & - & -\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item [1] \textit{Log-Likelihood: -3109.50; Number of Observations: 4092.}
+\item [2] \textit{This model shows the utility of each attribute with 1 unit increment. E.g., enrollment cash coefficient of 0.0051 means increasing enrollment cash by \$1 will increase customer utility by 0.0051.}
+\end{tablenotes}
+\label{table_mxl_model_v2g}
+\end{threeparttable}
+\end{table}

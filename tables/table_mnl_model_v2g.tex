@@ -1,0 +1,30 @@
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\caption{MNL V2G Model Coefficients}
+\fontsize{11}{12}\selectfont
+\begin{tabular}{l>{\centering\arraybackslash}p{1.5cm}ccc>{\centering\arraybackslash}p{2cm}c}
+\toprule
+\textbf{Attribute} & \textbf{Coef.} & \textbf{Est.} & \textbf{SE} & \textbf{Level} & \textbf{Unit}\\
+\midrule
+\multirow{-1}{*}{\raggedright\arraybackslash Enrollment Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_1$} & 0.0045 & 0.0026 & 50, 100, 200, 300 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Occurrence Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_2$} & 0.0863 & 0.0040 & 2, 5, 10, 15, 20 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Monthly Occurrence} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_3$} & 0.1305 & 0.0217 & 1, 2, 3, 4 & Times\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Lower Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_4$} & 0.0237 & 0.0030 & 20, 30, 40 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Guaranteed Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_5$} & 0.0278 & 0.0030 & 60, 70, 80 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash No Choice} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_6$} & 2.8759 & 0.2647 & - & -\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item [1] \textit{Log-Likelihood: -3293.41; Number of Observations: 4092.}
+\item [2] \textit{This model shows the utility of each attribute with 1 unit increment. See details in Table \ref{table_mxl_model_v2g}.}
+\end{tablenotes}
+\label{table_mnl_model_v2g}
+\end{threeparttable}
+\end{table}

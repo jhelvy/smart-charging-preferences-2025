@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\caption{MXL SMC Model Coefficients}
+\fontsize{11}{12}\selectfont
+\begin{tabular}{l>{\centering\arraybackslash}p{1.5cm}ccc>{\centering\arraybackslash}p{2cm}c}
+\toprule
+\textbf{Attribute} & \textbf{Coef.} & \textbf{Est.} & \textbf{SE} & \textbf{Level} & \textbf{Unit}\\
+\midrule
+\multirow{-1}{*}{\raggedright\arraybackslash Enrollment Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_1$} & 0.0037 & 0.0002 & 50, 100, 200, 300 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Monthly Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_2$} & 0.0728 & 0.0031 & 2, 5, 10, 15, 20 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Override Days} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_3$} & 0.1191 & 0.0140 & 0, 1, 3, 5 & Days\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Override Flag} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_4$} & 0.4357 & 0.0654 & Yes, No & -\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Minimum Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_5$} & 0.0044 & 0.0023 & 20, 30, 40 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Guaranteed Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_6$} & 0.0490 & 0.0028 & 60, 70, 80 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash No Choice} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_7$} & 2.8984 & 0.2215 & - & -\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item [1] \textit{Log-Likelihood: -6647.41; Number of Observations: 8136.}
+\item [2] \textit{This model shows the utility of each attribute with 1 unit increment. E.g., enrollment cash coefficient of 0.0037 means increasing enrollment cash by \$1 will increase customer utility by 0.0037.}
+\end{tablenotes}
+\label{table_mxl_model_smc}
+\end{threeparttable}
+\end{table}

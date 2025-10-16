@@ -23,7 +23,7 @@ smc_design <- cbc_design(
 )
 
 # 1.3 Save design
-write_csv(smc_design, here("data", "smc_questions.csv"))
+write_csv(smc_design, here('project', 'data', 'smc_questions.csv'))
 
 # 2. Section 3 - V2G Programs
 # 2.1 Profiles
@@ -45,4 +45,4 @@ v2g_design <- cbc_design(
 )
 
 # 2.3 Save design
-write_csv(v2g_design, here("data", "v2g_questions.csv"))
+write_csv(v2g_design, here('project', 'data', 'v2g_questions.csv'))

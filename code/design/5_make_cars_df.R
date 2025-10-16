@@ -85,6 +85,6 @@ car_make_df <- car_df %>%
 ##########################################
 
 # Write into csv
-# write_csv(car_df, here("data", "cars.csv"))
-# write_csv(car_make_df, here("data", "car_makes.csv"))
-# write_csv(car_model_df, here("data", "car_models.csv"))
+# write_csv(car_df, here("project", "data", "cars.csv"))
+# write_csv(car_make_df, here("project", "data", "car_makes.csv"))
+# write_csv(car_model_df, here("project", "data", "car_models.csv"))

@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\caption{MNL SMC Model Coefficients}
+\fontsize{11}{12}\selectfont
+\begin{tabular}{l>{\centering\arraybackslash}p{1.5cm}ccc>{\centering\arraybackslash}p{2cm}c}
+\toprule
+\textbf{Attribute} & \textbf{Coef.} & \textbf{Est.} & \textbf{SE} & \textbf{Level} & \textbf{Unit}\\
+\midrule
+\multirow{-1}{*}{\raggedright\arraybackslash Enrollment Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_1$} & 0.0031 & 0.0002 & 50, 100, 200, 300 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Monthly Cash} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_2$} & 0.0623 & 0.0027 & 2, 5, 10, 15, 20 & USD\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Override Days} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_3$} & 0.1010 & 0.0118 & 0, 1, 3, 5 & Days\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Override Flag} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_4$} & 0.3622 & 0.0538 & Yes, No & -\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Minimum Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_5$} & 0.0037 & 0.0021 & 20, 30, 40 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash Guaranteed Threshold} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_6$} & 0.0362 & 0.0021 & 60, 70, 80 & \%\\
+\cmidrule(lr){1-6}
+\multirow{-1}{*}{\raggedright\arraybackslash No Choice} & \multirow{-1}{1.5cm}{\centering\arraybackslash $\beta_7$} & 3.0026 & 0.1779 & - & -\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item [1] \textit{Log-Likelihood: -7201.65; Number of Observations: 8136.}
+\item [2] \textit{This model shows the utility of each attribute with 1 unit increment. See details in Table \ref{table_mxl_model_smc}.}
+\end{tablenotes}
+\label{table_mnl_model_smc}
+\end{threeparttable}
+\end{table}

@@ -16,8 +16,8 @@ smc_profiles <- cbc_profiles(
 smc_design <- cbc_design(
     profiles = smc_profiles,
     n_resp   = 1000,  # Number of respondents
-    n_alts   = 2,     # Number of alternatives per question
-    n_q      = 6,     # Number of questions per respondent
+    n_alts   = 2,    # Number of alternatives per question
+    n_q      = 6,    # Number of questions per respondent
     no_choice = TRUE
 )
 
