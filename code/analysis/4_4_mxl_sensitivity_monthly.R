@@ -1,5 +1,5 @@
-load(file.path(processed_dir, "2_models", "smc_mnl_model.RData"))
-summary(smc_mnl_model)
+load(file.path(processed_dir, "2_models", "smc_mxl_model.RData"))
+summary(smc_mxl_model)
 
 smc_baseline_2 <- data.frame(
   alt_id = c(1, 2),
@@ -14,7 +14,7 @@ smc_baseline_2 <- data.frame(
 )
 
 # Sensitivity of user enrollment to changes in "monthly_cash"
-smc_monthly_levels_2 <- seq(0, 122, by = 1)
+smc_monthly_levels_2 <- seq(0, 103, by = 1)
 smc_monthly_numbers_2 <- length(smc_monthly_levels_2)
 smc_monthly_scenarios_2 <- do.call(
   bind_rows,
@@ -25,8 +25,8 @@ smc_monthly_scenarios_2$monthly_cash[which(
   smc_monthly_scenarios_2$alt_id == 1
 )] <- smc_monthly_levels_2
 
-smc_mnl_sens_monthly_2 <- predict(
-  smc_mnl_model,
+smc_mxl_sens_monthly_2 <- predict(
+  smc_mxl_model,
   newdata = smc_monthly_scenarios_2,
   obsID = "obs_id",
   level = 0.95,
@@ -37,7 +37,7 @@ smc_mnl_sens_monthly_2 <- predict(
   select(monthly_cash, starts_with("predicted_"))
 
 # Plot of user enrollment change to "monthly_cash"
-smc_mnl_sens_monthly_plot_2 <- smc_mnl_sens_monthly_2 %>%
+smc_mxl_sens_monthly_plot_2 <- smc_mxl_sens_monthly_2 %>%
   ggplot(aes(
     x = monthly_cash,
     y = predicted_prob,
@@ -47,11 +47,11 @@ smc_mnl_sens_monthly_plot_2 <- smc_mnl_sens_monthly_2 %>%
   geom_ribbon(alpha = 0.2) +
   geom_line(linetype = "dashed") +
   geom_line(
-    data = smc_mnl_sens_monthly_2 %>%
+    data = smc_mxl_sens_monthly_2 %>%
       filter(monthly_cash <= 20, monthly_cash >= 2),
     linetype = "solid"
   ) +
-  expand_limits(x = c(0, 122), y = c(0, 1)) +
+  expand_limits(x = c(0, 103), y = c(0, 1)) +
   scale_y_continuous(labels = percent) +
   labs(
     x = "Monthly Cash (USD)",
@@ -61,31 +61,31 @@ smc_mnl_sens_monthly_plot_2 <- smc_mnl_sens_monthly_2 %>%
   theme_bw(base_family = "Ubuntu") +
   theme(panel.grid.minor = element_blank())
 
-smc_mnl_sens_monthly_plot_2
+smc_mxl_sens_monthly_plot_2
 
 # Find the monthly cash value that achieves close to 100% enrollment rate
 target_enrollment <- 0.99
 closest_row <- which.min(abs(
-  smc_mnl_sens_monthly_2$predicted_prob - target_enrollment
+  smc_mxl_sens_monthly_2$predicted_prob - target_enrollment
 ))
-required_monthly_cash <- smc_mnl_sens_monthly_2$monthly_cash[closest_row]
-achieved_rate <- smc_mnl_sens_monthly_2$predicted_prob[closest_row]
+required_monthly_cash <- smc_mxl_sens_monthly_2$monthly_cash[closest_row]
+achieved_rate <- smc_mxl_sens_monthly_2$predicted_prob[closest_row]
 
 cat("To achieve", target_enrollment * 100, "% enrollment rate:\n")
 cat("Required monthly cash: $", required_monthly_cash, "\n")
 cat("Achieved enrollment rate:", round(achieved_rate * 100, 2), "%\n")
 
 # Also check what we get at $100 and $200
-rate_at_100 <- smc_mnl_sens_monthly_2$predicted_prob[
-  smc_mnl_sens_monthly_2$monthly_cash == 100
+rate_at_100 <- smc_mxl_sens_monthly_2$predicted_prob[
+  smc_mxl_sens_monthly_2$monthly_cash == 100
 ]
-rate_at_200 <- smc_mnl_sens_monthly_2$predicted_prob[
-  smc_mnl_sens_monthly_2$monthly_cash == 200
+rate_at_200 <- smc_mxl_sens_monthly_2$predicted_prob[
+  smc_mxl_sens_monthly_2$monthly_cash == 200
 ]
 cat("\nEnrollment rate at $100:", round(rate_at_100 * 100, 2), "%\n")
 cat(
-  "Enrollment rate at $122:",
-  round(tail(smc_mnl_sens_monthly_2$predicted_prob, 1) * 100, 2),
+  "Enrollment rate at $103:",
+  round(tail(smc_mxl_sens_monthly_2$predicted_prob, 1) * 100, 2),
   "%\n"
 )
 
@@ -96,17 +96,17 @@ ggsave(
     "3_enrollment_sensitivity",
     "smc_monthly_sens_plot.png"
   ),
-  plot = smc_mnl_sens_monthly_plot_2,
+  plot = smc_mxl_sens_monthly_plot_2,
   width = 6,
   height = 6 / 1.618
 )
 
 # Save the data
 save(
-  smc_mnl_sens_monthly_2,
+  smc_mxl_sens_monthly_2,
   file = file.path(
     processed_dir,
     "3_enrollment_sensitivity",
-    "smc_mnl_sens_monthly.RData"
+    "smc_sens_monthly.RData"
   )
 )

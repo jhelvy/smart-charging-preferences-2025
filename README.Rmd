@@ -55,9 +55,9 @@ file | description
 `analysis/0_source_scripts.R` | Triggers all analysis code, called by `run.R`.
 `analysis/1_clean_data.R` | Cleans the raw survey data and saves into the `results/` directory.
 `analysis/2_summary_statistics_plots.R` | Generates the summarized plots of the raw survey data and saves into the `results/1_summary/` directory.
-`analysis/3_mnl_pref_model.R` | Constructs the multinomial logit model with user preference space and saves into the `results/2_models/` directory.
-`analysis/4_mnl_enrollment_sensitivity.R` | Simulates the user enrollment sensitivity of smart charging programs and saves into the `results/3_enrollment_sensitivity/` directory.
-`analysis/5_mnl_scenario_analysis.R` | Simulates the scenario analysis and saves into the `results/4_scenario_analysis/` directory.
+`analysis/3_XX.R` | Scripts starting with `3_` analyze the multinomial logit model, results saved into the `results/2_models/`, `results/3_enrollment_sensitivity`, and `results/4_scenario_analysis` directories.
+`analysis/4_XX.R` | R scripts starting with `4_` analyze the mixed logit model, results saved into the `results/2_models/`, `results/3_enrollment_sensitivity`, and `results/4_scenario_analysis` directories.
+`analysis/5_XX.R` | R scripts starting with `5_` analyze the gender-weighted mixed logit model, results saved into the `results/2_models/`, `results/3_enrollment_sensitivity`, and `results/4_scenario_analysis` directories.
 `design/1_power_analysis_smc.R` | Performs power analysis conjoint survey questions to help determine the expected number of participants.
 `design/2_make_choice_questions.R` | Generates conjoint choice questions and save csv files into the `data/` directory.
 `design/3_make_smc_battery_figs.R` | Generates battery condition figures for the SMC smart charging programs and saves into the `figs/` directory.

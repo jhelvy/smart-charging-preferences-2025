@@ -48,10 +48,10 @@ selected_files <- c(
   # "3_1_mnl_pref_model.R", # This script only needs to run once so it's commented out.
   "3_2_mnl_enrollment_sensitivity.R",
   "3_3_mnl_scenario_analysis.R",
-  "3_4_mnl_sensitivity_monthly.R",
   # "4_1_mxl_pref_model.R", # This script only needs to run once so it's commented out.
   "4_2_mxl_enrollment_sensitivity.R",
   "4_3_mxl_scenario_analysis.R",
+  "4_4_mxl_sensitivity_monthly.R",
   # "5_1_mxl_model_gender.R", # This script only needs to run once so it's commented out.
   "5_2_mxl_enrollment_sensitivity_gender.R",
   "5_3_mxl_scenario_analysis_gender.R"
