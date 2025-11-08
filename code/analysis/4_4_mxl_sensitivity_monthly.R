@@ -9,12 +9,12 @@ smc_baseline_2 <- data.frame(
   override_days = c(0, 0),
   override_flag = c(0, 0),
   minimum_threshold = c(0, 0),
-  guaranteed_threshold = c(0, 0),
+  guaranteed_threshold = c(40, 0),
   no_choice = c(0, 1)
 )
 
 # Sensitivity of user enrollment to changes in "monthly_cash"
-smc_monthly_levels_2 <- seq(0, 103, by = 1)
+smc_monthly_levels_2 <- seq(0, 85, by = 1)
 smc_monthly_numbers_2 <- length(smc_monthly_levels_2)
 smc_monthly_scenarios_2 <- do.call(
   bind_rows,
@@ -51,7 +51,7 @@ smc_mxl_sens_monthly_plot_2 <- smc_mxl_sens_monthly_2 %>%
       filter(monthly_cash <= 20, monthly_cash >= 2),
     linetype = "solid"
   ) +
-  expand_limits(x = c(0, 103), y = c(0, 1)) +
+  expand_limits(x = c(0, 85), y = c(0, 1)) +
   scale_y_continuous(labels = percent) +
   labs(
     x = "Monthly Cash (USD)",
@@ -75,26 +75,12 @@ cat("To achieve", target_enrollment * 100, "% enrollment rate:\n")
 cat("Required monthly cash: $", required_monthly_cash, "\n")
 cat("Achieved enrollment rate:", round(achieved_rate * 100, 2), "%\n")
 
-# Also check what we get at $100 and $200
-rate_at_100 <- smc_mxl_sens_monthly_2$predicted_prob[
-  smc_mxl_sens_monthly_2$monthly_cash == 100
-]
-rate_at_200 <- smc_mxl_sens_monthly_2$predicted_prob[
-  smc_mxl_sens_monthly_2$monthly_cash == 200
-]
-cat("\nEnrollment rate at $100:", round(rate_at_100 * 100, 2), "%\n")
-cat(
-  "Enrollment rate at $103:",
-  round(tail(smc_mxl_sens_monthly_2$predicted_prob, 1) * 100, 2),
-  "%\n"
-)
-
 # Save the plot
 ggsave(
   filename = file.path(
     processed_dir,
     "3_enrollment_sensitivity",
-    "smc_monthly_sens_plot.png"
+    "smc_sens_monthly_plot.png"
   ),
   plot = smc_mxl_sens_monthly_plot_2,
   width = 6,
