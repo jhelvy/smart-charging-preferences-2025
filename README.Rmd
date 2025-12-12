@@ -8,7 +8,7 @@ output:
 
 You can use this DOI to cite this repository:
 
-(zenodo link here...)
+[![DOI](https://zenodo.org/badge/941519401.svg)](https://doi.org/10.5281/zenodo.17911540)
 
 ```{r setup, echo=FALSE}
 IS_README <- TRUE
