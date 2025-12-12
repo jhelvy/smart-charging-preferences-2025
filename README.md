@@ -3,7 +3,7 @@
 
 You can use this DOI to cite this repository:
 
-(zenodo link here…)
+[![DOI](https://zenodo.org/badge/941519401.svg)](https://doi.org/10.5281/zenodo.17911540)
 
 This repository contains the data and code to reproduce results from our
 study titled [**“Grid-Integration of Electric Vehicles: Consumer
